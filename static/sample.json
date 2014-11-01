@@ -1,0 +1,854 @@
+
+    {
+        "timeline": {
+            "headline": "Bath Blue Plaques", 
+            "text": "Plaques in Bath", 
+            "type": "default", 
+            "date": "rem", 
+            "startDate": "600,1,26",
+			 "date": [
+
+ 
+    {
+        "headline": "Black plaque \u00e2\u0084\u0096 11258 in Bath", 
+        "startDate": "12/26/1090 12:00:00 AM", 
+        "endDate": "12/23/1494 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_z.jpg", 
+            "caption": "Bath Abbey"
+        }, 
+        "text": "The tower of the Norman cathedral built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
+    }, 
+    {
+        "headline": "Bronze plaque \u00e2\u0084\u0096 11256 in Bath", 
+        "startDate": "12/25/1182 12:00:00 AM", 
+        "endDate": "01/01/1755 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_z.jpg", 
+            "caption": "Trim Street"
+        }, 
+        "text": "Part of the mediaeval wall of the city of Bath"
+    }, 
+    {
+        "headline": "Sally Lunn brown plaque in Bath", 
+        "startDate": "12/23/1481 12:00:00 AM", 
+        "endDate": "12/22/1483 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_z.jpg", 
+            "caption": "4 North Parade Passage"
+        }, 
+        "text": "The oldest house in Bath 1482 Sally Lunn lived here 1680"
+    }, 
+    {
+        "headline": "George Wade bronze plaque in Bath", 
+        "startDate": "01/01/1673 12:00:00 AM", 
+        "endDate": "01/01/1748 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm1.staticflickr.com/130/383555325_c87c589ebf_z.jpg", 
+            "caption": "Marshall Wade House, 14 Abbey Churchyard"
+        }, 
+        "text": "Here lived Marshal Wade M.P. B.1673 D.1748"
+    }, 
+    {
+        "headline": "James Quin bronze plaque in Bath", 
+        "startDate": "01/01/1693 12:00:00 AM", 
+        "endDate": "01/01/1766 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg", 
+            "caption": "4 Pierrepont Street"
+        }, 
+        "text": "Here lived James Quin B.1693 D.1766"
+    }, 
+    {
+        "headline": "Philip Stanhope bronze plaque in Bath", 
+        "startDate": "01/01/1694 12:00:00 AM", 
+        "endDate": "01/01/1773 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_z.jpg", 
+            "caption": "4 Pierrepont Street"
+        }, 
+        "text": "Here lived the Earl of Chesterfield B.1694 D.1773"
+    }, 
+    {
+        "headline": "William Oliver bronze plaque in Bath", 
+        "startDate": "01/01/1695 12:00:00 AM", 
+        "endDate": "01/01/1764 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_z.jpg", 
+            "caption": "16-18 Queen Square"
+        }, 
+        "text": "On this site stood the residence of William Oliver, M.D. One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
+    }, 
+    {
+        "headline": "Richard Brinsley Sheridan and Thomas Sheridan brass plaque in Bath", 
+        "startDate": "01/01/1700 12:00:00 AM", 
+        "endDate": "01/01/1772 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_z.jpg", 
+            "caption": "9 New King Street"
+        }, 
+        "text": "Near this site between 1770 and 1772 lived Thomas Sheridan Actor & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
+    }, 
+    {
+        "headline": "John Wood the elder bronze plaque in Bath", 
+        "startDate": "01/01/1704 12:00:00 AM", 
+        "endDate": "01/01/1754 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_z.jpg", 
+            "caption": "24 Queen Square"
+        }, 
+        "text": "Here lived John Wood B. 1704 D. 1754"
+    }, 
+    {
+        "headline": "Henry Fielding and Sarah Fielding bronze plaque in Bath", 
+        "startDate": "01/01/1707 12:00:00 AM", 
+        "endDate": "01/01/1754 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
+            "caption": "Widcombe Lodge, Church Street"
+        }, 
+        "text": "Here lived Henry Fielding B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
+    }, 
+    {
+        "headline": "William Pitt bronze plaque in Bath", 
+        "startDate": "01/01/1708 12:00:00 AM", 
+        "endDate": "01/01/1778 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_z.jpg", 
+            "caption": "7 The Circus"
+        }, 
+        "text": "Here lived Earl of Chatham B.1708-D.1778"
+    }, 
+    {
+        "headline": "Richard 'Beau' Nash bronze plaque in Bath", 
+        "startDate": "01/01/1708 12:00:00 AM", 
+        "endDate": "01/01/1761 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8293/7803180622_6e0e0a8e3c_z.jpg", 
+            "caption": "Grand Parade"
+        }, 
+        "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugerated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
+    }, 
+    {
+        "headline": "John Christopher Smith bronze plaque in Bath", 
+        "startDate": "01/01/1712 12:00:00 AM", 
+        "endDate": "01/01/1795 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7041/6990799403_ede3d0e782_z.jpg", 
+            "caption": "18 Brock Street"
+        }, 
+        "text": "Here dwelt John Christopher Smith (1712-1795) Handel's friend and secretary"
+    }, 
+    {
+        "headline": "Robert Clive bronze plaque in Bath", 
+        "startDate": "01/01/1725 12:00:00 AM", 
+        "endDate": "01/01/1774 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4089/5065545252_d8c8ea3a0c_z.jpg", 
+            "caption": "14 The Circus"
+        }, 
+        "text": "Here dwelt  Lord Clive  B.1725 D.1774"
+    }, 
+    {
+        "headline": "Thomas Gainsborough bronze plaque in Bath", 
+        "startDate": "01/01/1727 12:00:00 AM", 
+        "endDate": "01/01/1788 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4107/5064929311_6ffebb024c_z.jpg", 
+            "caption": "17 The Circus"
+        }, 
+        "text": "Here lived T. Gainsborough. R.A.B.1727 D.1788"
+    }, 
+    {
+        "headline": "James Wolfe bronze plaque in Bath", 
+        "startDate": "01/01/1727 12:00:00 AM", 
+        "endDate": "01/01/1759 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7051/6990828665_87baa7262b_z.jpg", 
+            "caption": "5 Trim Street"
+        }, 
+        "text": "Here dwelt General Wolfe B 1727 D 1759"
+    }, 
+    {
+        "headline": "John Wood the younger bronze plaque in Bath", 
+        "startDate": "01/01/1727 12:00:00 AM", 
+        "endDate": "01/01/1781 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7178/6823970000_0482fc4ee2_z.jpg", 
+            "caption": "41 Gay Street"
+        }, 
+        "text": "Here lived John Wood Junr B. 1727 D. 1781"
+    }, 
+    {
+        "headline": "Edmund Burke bronze plaque in Bath", 
+        "startDate": "01/01/1729 12:00:00 AM", 
+        "endDate": "01/01/1791 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4125/5065622070_9f9fb5be37_z.jpg", 
+            "caption": "11 North Parade"
+        }, 
+        "text": "Here dwelt Edmund Burke B.1729 D.1797"
+    }, 
+    {
+        "headline": "Stone plaque \u00e2\u0084\u0096 30751 in Bath", 
+        "startDate": "01/01/1736 12:00:00 AM", 
+        "endDate": "01/01/1849 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7328/14168442655_e8624c1636_z.jpg", 
+            "caption": "Trim Street"
+        }, 
+        "text": "This piece of ground was in the year 1736 set apart for the burial of patients dying in the Bath General Hospital, and after receiving 238 bodies was closed by the governors of that charity in the year 1849, from regard to the health of the living."
+    }, 
+    {
+        "headline": "Bronze plaque \u00e2\u0084\u0096 11835 in Bath", 
+        "startDate": "01/01/1738 12:00:00 AM", 
+        "endDate": "12/31/1738 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8033/7886869266_4d53aef696_z.jpg", 
+            "caption": "Queens Square"
+        }, 
+        "text": "In memory of honours conferred and in gratitude for benefits bestowed on this city by HRH Frederick Prince of Wales and His Royal Consort, in the year 1738 this obelisk was erected by Richard Nash."
+    }, 
+    {
+        "headline": "Ralph Allen bronze plaque in Bath", 
+        "startDate": "01/01/1740 12:00:00 AM", 
+        "endDate": "01/31/1740 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_z.jpg", 
+            "caption": "Ralph Allen's Cottages, Prior Park Road"
+        }, 
+        "text": "Ralph Allens' Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
+    }, 
+    {
+        "headline": "Hester Thrale bronze plaque in Bath", 
+        "startDate": "01/01/1741 12:00:00 AM", 
+        "endDate": "01/01/1821 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4103/5065524312_bac5eaf142_z.jpg", 
+            "caption": "8 Gay Street"
+        }, 
+        "text": "Here lived Mrs Piozzi B.1741 D.1821"
+    }, 
+    {
+        "headline": "John Palmer bronze plaque in Bath", 
+        "startDate": "01/01/1741 12:00:00 AM", 
+        "endDate": "01/01/1818 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
+            "caption": "1 North Parade Buildings"
+        }, 
+        "text": "Here lived John Palmer B.1741 D.1818"
+    }, 
+    {
+        "headline": "Richard 'Beau' Nash black plaque in Bath", 
+        "startDate": "01/01/1743 12:00:00 AM", 
+        "endDate": "01/01/1761 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8257/8635781974_576275220c_z.jpg", 
+            "caption": "Saw Street"
+        }, 
+        "text": "Here lived Beau Nash MC 1743-1761"
+    }, 
+    {
+        "headline": "Theatre Royal Bath, John Palmer, Sarah Siddons, John Philip Kemble, and 8 others in Bath", 
+        "startDate": "01/01/1750 12:00:00 AM", 
+        "endDate": "01/01/1805 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4124/5065061157_98deee8af5_z.jpg", 
+            "caption": "Old Orchard Street"
+        }, 
+        "text": "This building, erected in 1750, was formerly the  Theatre Royal managed by the celebrated John Palmer, M.P., originator of the mail coach system and holder of the first Royal Patent ever granted to a provincial theatre, to its stock company, for a period of four years (1778-82) belonged the renowned Sarah Siddons, with her husband and sister. Here also appeared her brothers, John Philip Kemble and Stephen Kemble. Here John Henderson and R.W. Elliston both made their first appearances on the stage and were for a long time leading actors. Samuel Foote, George Frederick Cooke, William Dimond, Benjamin Engledon, George and Mrs. Bartley, and many other famous players also acted in this theatre, which was closed in 1805."
+    }, 
+    {
+        "headline": "Stone plaque \u00e2\u0084\u0096 11832 in Bath", 
+        "startDate": "01/01/1754 12:00:00 AM", 
+        "endDate": "12/31/1754 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8310/7886867212_4252aaa2b6_z.jpg", 
+            "caption": "Broad Street"
+        }, 
+        "text": "This building designed by Thomas Jelly and completed in 1754 was restored in 1978 by the Friends of King Edward's School with the aid of a grant from the Bath Town Scheme."
+    }, 
+    {
+        "headline": "Sarah Siddons bronze plaque in Bath", 
+        "startDate": "01/01/1755 12:00:00 AM", 
+        "endDate": "01/01/1831 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7062/6823969046_228c2c6d42_z.jpg", 
+            "caption": "33 The Paragon"
+        }, 
+        "text": "Here dwelt Sarah Siddons B. 1755 D. 1831"
+    }, 
+    {
+        "headline": "Caleb Hillier Parry and W. E. Parry bronze plaque in Bath", 
+        "startDate": "01/01/1755 12:00:00 AM", 
+        "endDate": "01/01/1822 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4110/5064950947_de59fb131a_z.jpg", 
+            "caption": "27 The Circus"
+        }, 
+        "text": "Here lived Dr Caleb Hillier Parry B.1755 D. 1822. and his son Admiral Sir W. E. Parry B.1790 D.1855"
+    }, 
+    {
+        "headline": "Horatio Nelson bronze plaque in Bath", 
+        "startDate": "01/01/1758 12:00:00 AM", 
+        "endDate": "01/01/1805 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4086/5065656668_a2c2bc5b1d_z.jpg", 
+            "caption": "2 Pierrepont Street"
+        }, 
+        "text": "Here dwelt Admiral Lord Nelson B.1758 D.1805"
+    }, 
+    {
+        "headline": "Richard 'Beau' Nash white plaque in Bath", 
+        "startDate": "01/01/1761 12:00:00 AM", 
+        "endDate": "12/31/1761 12:00:00 AM", 
+        "asset": {
+            "media": "http://commons.wikimedia.org/wiki/Special:FilePath/Beau_Nash_plaque,_Bath.jpg?width=75", 
+            "caption": "Barton Street"
+        }, 
+        "text": "In this house resided the celebrated Beau Nash and here he died Feby. 1761"
+    }, 
+    {
+        "headline": "Horace Walpole bronze plaque in Bath", 
+        "startDate": "01/01/1766 12:00:00 AM", 
+        "endDate": "12/31/1766 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm6.staticflickr.com/5588/15046628587_ec7a925fe7_z.jpg", 
+            "caption": "Chapel Court, St John's Hospital"
+        }, 
+        "text": "Horace Walpole stayed here 1766"
+    }, 
+    {
+        "headline": "Elizabeth Anne Linley bronze plaque in Bath", 
+        "startDate": "01/01/1767 12:00:00 AM", 
+        "endDate": "01/01/1771 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4088/5065662608_861f570f12_z.jpg", 
+            "caption": "Old Orchard Street"
+        }, 
+        "text": "Elizabeth Anne Linley afterwards Mrs. R.B. Sheridan lived here 1767-1771."
+    }, 
+    {
+        "headline": "Thomas Barker bronze plaque in Bath", 
+        "startDate": "01/01/1769 12:00:00 AM", 
+        "endDate": "01/01/1847 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8180/7886870520_a1bde2f51c_z.jpg", 
+            "caption": "Doric House, Cavendish Road"
+        }, 
+        "text": "Here lived Thomas Barker B. 1769 D. 1847"
+    }, 
+    {
+        "headline": "Christopher Anstey bronze plaque in Bath", 
+        "startDate": "01/01/1770 12:00:00 AM", 
+        "endDate": "01/01/1805 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4091/5064975289_65d228067f_z.jpg", 
+            "caption": "5 Royal Crescent"
+        }, 
+        "text": "Here lived Christopher Anstey 1770-1805"
+    }, 
+    {
+        "headline": "William Wordsworth bronze plaque in Bath", 
+        "startDate": "01/01/1770 12:00:00 AM", 
+        "endDate": "01/01/1850 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4131/5065632228_db387cb486_z.jpg", 
+            "caption": "9 North Parade"
+        }, 
+        "text": "Here dwelt William Wordsworth B.1770 D.1850"
+    }, 
+    {
+        "headline": "John Andre bronze plaque in Bath", 
+        "startDate": "01/01/1770 12:00:00 AM", 
+        "endDate": "12/31/1770 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4108/5064955287_b3ef3ae395_z.jpg", 
+            "caption": "22 The Circus"
+        }, 
+        "text": "Here dwelt Major Andre A.D. 1770."
+    }, 
+    {
+        "headline": "Oliver Goldsmith bronze plaque in Bath", 
+        "startDate": "01/01/1771 12:00:00 AM", 
+        "endDate": "12/31/1771 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4127/5065014839_259fc05e79_z.jpg", 
+            "caption": "North Parade"
+        }, 
+        "text": "Oliver Goldsmith stayed here 1771"
+    }, 
+    {
+        "headline": "Sydney W. Smith bronze plaque in Bath", 
+        "startDate": "01/01/1772 12:00:00 AM", 
+        "endDate": "01/01/1774 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4146/5065571872_0b240e2fb6_z.jpg", 
+            "caption": "12 Catherine Street"
+        }, 
+        "text": "Here lived Admiral Sir Sydney W. Smith 1772-1774 B.1764 D. 1840"
+    }, 
+    {
+        "headline": "Thomas Linley, Elizabeth Anne Linley, and Richard Brinsley Sheridan bronze plaque in Bath", 
+        "startDate": "03/18/1772 12:00:00 AM", 
+        "endDate": "03/18/1772 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4146/5064986669_00824bfe9e_z.jpg", 
+            "caption": "11 Royal Crescent"
+        }, 
+        "text": "Thomas Linley lived here and from this house his daughter Elizabeth eloped with Richard Brinsley Sheridan on the evening of the 18th March 1772"
+    }, 
+    {
+        "headline": "Robert Southey bronze plaque in Bath", 
+        "startDate": "01/01/1774 12:00:00 AM", 
+        "endDate": "01/01/1843 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7176/6844636960_42be03b908_z.jpg", 
+            "caption": "108 Walcot Street"
+        }, 
+        "text": "Here lived Robert Southey B. 1774 D. 1843"
+    }, 
+    {
+        "headline": "Walter Scott bronze plaque in Bath", 
+        "startDate": "01/01/1775 12:00:00 AM", 
+        "endDate": "12/31/1775 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4086/5065642820_eb85054c52_z.jpg", 
+            "caption": "6 South Parade"
+        }, 
+        "text": "Here dwelt Sir Walter Scott 1775."
+    }, 
+    {
+        "headline": "Walter Savage Landor black plaque in Bath", 
+        "startDate": "01/01/1775 12:00:00 AM", 
+        "endDate": "01/01/1864 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7041/6970094243_f4bfec52d7_z.jpg", 
+            "caption": "35 St. James Square"
+        }, 
+        "text": "Here lived W. Savage Landor b.1775 d.1864"
+    }, 
+    {
+        "headline": "Benjamin Barker bronze plaque in Bath", 
+        "startDate": "01/01/1776 12:00:00 AM", 
+        "endDate": "01/01/1838 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4083/5065471730_8f8cc80492_z.jpg", 
+            "caption": "16 Bathwick Street"
+        }, 
+        "text": "Here lived Benjamin Barker B.1776 D.1838"
+    }, 
+    {
+        "headline": "Fanny Burney bronze plaque in Bath", 
+        "startDate": "01/01/1780 12:00:00 AM", 
+        "endDate": "01/01/1752 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7068/6970095181_1401b583af_z.jpg", 
+            "caption": "14 South Parade"
+        }, 
+        "text": "Fanny Burney stayed here 1780 B.1752 D.1840"
+    }, 
+    {
+        "headline": "William Herschel bronze plaque in Bath", 
+        "startDate": "01/01/1781 12:00:00 AM", 
+        "endDate": "01/31/1781 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8307/7886910822_7d9f498275_z.jpg", 
+            "caption": "19 New King Street"
+        }, 
+        "text": "Here lived William Herschel A.D. 1781."
+    }, 
+    {
+        "headline": "Thomas Lawrence bronze plaque in Bath", 
+        "startDate": "01/01/1783 12:00:00 AM", 
+        "endDate": "01/01/1788 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7070/6844647486_feff59640a_z.jpg", 
+            "caption": "2 Alfred Street"
+        }, 
+        "text": "Here lived Sir Thomas Lawrence P.R.A. 1783-1788."
+    }, 
+    {
+        "headline": "John Hunter bronze plaque in Bath", 
+        "startDate": "01/01/1785 12:00:00 AM", 
+        "endDate": "12/31/1785 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4111/5065025067_951162a5d9_z.jpg", 
+            "caption": "12 South Parade"
+        }, 
+        "text": "Here dwelt  John Hunter, F.R.S. 1785. B.1728. D.1793."
+    }, 
+    {
+        "headline": "William Jay bronze plaque in Bath", 
+        "startDate": "01/01/1790 12:00:00 AM", 
+        "endDate": "01/01/1853 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4088/5064833979_5e68ac51a8_z.jpg", 
+            "caption": "Bath Central United Reformed Church, Argyle Street"
+        }, 
+        "text": "William Jay was Minister here 1790-1853"
+    }, 
+    {
+        "headline": "Hannah More bronze plaque in Bath", 
+        "startDate": "01/01/1792 12:00:00 AM", 
+        "endDate": "01/01/1802 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4108/5064888473_b29c532545_z.jpg", 
+            "caption": "William Street"
+        }, 
+        "text": "Here dwelt Hannah More 1792-1802"
+    }, 
+    {
+        "headline": "Richard Howe bronze plaque in Bath", 
+        "startDate": "01/01/1794 12:00:00 AM", 
+        "endDate": "01/01/1798 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4107/5065494934_6ef600ea5f_z.jpg", 
+            "caption": "William Street"
+        }, 
+        "text": "Admiral Earl Howe. K.G. lived here in 1794, 1795 & 1798. B.1725. D.1799."
+    }, 
+    {
+        "headline": "William Smith bronze plaque in Bath", 
+        "startDate": "11/12/1799 12:00:00 AM", 
+        "endDate": "", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4113/5065457994_f7eb5f9447_z.jpg", 
+            "caption": "29 Pultney Street"
+        }, 
+        "text": "In this house, William Smith, the father of English geology, dictated \"The Order of the Strata\" December 11th 1799"
+    }, 
+    {
+        "headline": "Jane Austen bronze plaque in Bath", 
+        "startDate": "01/01/1801 12:00:00 AM", 
+        "endDate": "01/01/1805 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4145/5065467278_b30e476276_z.jpg", 
+            "caption": "4 Sydney Place"
+        }, 
+        "text": "Here lived Jane Austen 1801-1805"
+    }, 
+    {
+        "headline": "William Pitt bronze plaque in Bath", 
+        "startDate": "01/01/1802 12:00:00 AM", 
+        "endDate": "12/31/1802 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_z.jpg", 
+            "caption": "15 Johnstone Street"
+        }, 
+        "text": "Here lived William Pitt A.D. 1802"
+    }, 
+    {
+        "headline": "William Wilberforce bronze plaque in Bath", 
+        "startDate": "01/01/1802 12:00:00 AM", 
+        "endDate": "01/01/1805 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4131/5064850333_e75050060e_z.jpg", 
+            "caption": "36 Great Pultney Street"
+        }, 
+        "text": "William Wilberforce B.1759 D.1833 stayed here 1802 and 1805."
+    }, 
+    {
+        "headline": "James Brooke bronze plaque in Bath", 
+        "startDate": "01/01/1803 12:00:00 AM", 
+        "endDate": "01/01/1868 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm6.staticflickr.com/5466/9832969033_0af302e112_z.jpg", 
+            "caption": "1 Widcombe Crescent"
+        }, 
+        "text": "Here lived Sir James Brooke, K.C.B. first Rajah of Sarawak B.1803 D.1868"
+    }, 
+    {
+        "headline": "Edward Bulwer-Lytton bronze plaque in Bath", 
+        "startDate": "01/01/1803 12:00:00 AM", 
+        "endDate": "01/01/1873 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4084/5065450628_1abf4b4089_z.jpg", 
+            "caption": "Connaught Mansions, Pultney Street"
+        }, 
+        "text": "Here dwelt Lord Lytton B.1803 D.1873"
+    }, 
+    {
+        "headline": "Isambard Kingdom Brunel blue plaque in Bath", 
+        "startDate": "01/01/1806 12:00:00 AM", 
+        "endDate": "01/01/1859 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4113/5065679712_cab50fe298_z.jpg", 
+            "caption": "The Royal Hotel, Manvers Street"
+        }, 
+        "text": "The Royal Hotel Designed by Isambard Kingdom Brunel Born 1806 died 1859"
+    }, 
+    {
+        "headline": "Arthur Philip bronze plaque in Bath", 
+        "startDate": "01/01/1806 12:00:00 AM", 
+        "endDate": "01/01/1814 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7186/6844715216_455eb95dc4_z.jpg", 
+            "caption": "19 Bennett Street"
+        }, 
+        "text": "Here lived Admiral Philip 1806-1814 First Governor of Australia"
+    }, 
+    {
+        "headline": "John Rennie blue plaque in Bath", 
+        "startDate": "01/01/1810 12:00:00 AM", 
+        "endDate": "01/01/1813 12:00:00 AM", 
+        "asset": {
+            "media": "", 
+            "caption": "Claverton Pumping Station, Ferry Lane, Claverton"
+        }, 
+        "text": "Claverton Pump Designed by John Rennie (1761-1821). Built 1810-1813. Restored by Kennet and Avon Canal Trust 1969-1976."
+    }, 
+    {
+        "headline": "Isaac Pitman bronze plaque in Bath", 
+        "startDate": "01/01/1813 12:00:00 AM", 
+        "endDate": "01/01/1897 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4150/5064991425_646fb6bef8_z.jpg", 
+            "caption": "17 Royal Crescent"
+        }, 
+        "text": "Here lived Sir Isaac Pitman B.1813 D.1897"
+    }, 
+    {
+        "headline": "David Livingstone bronze plaque in Bath", 
+        "startDate": "01/01/1813 12:00:00 AM", 
+        "endDate": "01/01/1873 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4149/5065548990_a8434247cf_z.jpg", 
+            "caption": "13 The Circus"
+        }, 
+        "text": "Here dwelt David Livingstone B 1813. D 1873."
+    }, 
+    {
+        "headline": "William IV bronze plaque in Bath", 
+        "startDate": "01/01/1817 12:00:00 AM", 
+        "endDate": "12/31/1817 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4152/5064868475_e64817f288_z.jpg", 
+            "caption": "103 Sydney Place"
+        }, 
+        "text": "Here dwelt the Duke of Clarence afterwards King William the Fourth. 1817. B.1765. D.1837."
+    }, 
+    {
+        "headline": "Isambard Kingdom Brunel and Pulteney Bridge blue plaque in Bath", 
+        "startDate": "01/01/1821 12:00:00 AM", 
+        "endDate": "01/01/1826 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7211/7190635016_2bd2e8225b_z.jpg", 
+            "caption": "Walcot Street"
+        }, 
+        "text": "1821-26 Here lived I. K. Brunel Designer of the Pulteney Bridge"
+    }, 
+    {
+        "headline": "William Beckford bronze plaque in Bath", 
+        "startDate": "01/01/1822 12:00:00 AM", 
+        "endDate": "01/01/1844 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8299/7886866876_513516724f_z.jpg", 
+            "caption": "20 Lansdown Crescent"
+        }, 
+        "text": "Here lived William Beckford 1822 - 1844"
+    }, 
+    {
+        "headline": "Frederic Harrison bronze plaque in Bath", 
+        "startDate": "01/01/1831 12:00:00 AM", 
+        "endDate": "01/01/1923 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4145/5065591544_742ec5ddea_z.jpg", 
+            "caption": "10 Royal Crescent"
+        }, 
+        "text": "Here lived  Frederic Harrison B.1831 D.1923"
+    }, 
+    {
+        "headline": "Charles Napier bronze plaque in Bath", 
+        "startDate": "01/01/1836 12:00:00 AM", 
+        "endDate": "", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7067/6950153257_f594d2a30a_z.jpg", 
+            "caption": "9 Henrietta Street"
+        }, 
+        "text": "Here lived Sir Charles Napier 1836-1838."
+    }, 
+    {
+        "headline": "John Arthur Roebuck Rudge and William Friese-Greene black plaque in Bath", 
+        "startDate": "01/01/1837 12:00:00 AM", 
+        "endDate": "01/01/1903 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4111/5065436818_9a19b0751a_z.jpg", 
+            "caption": "New Bond Street Place"
+        }, 
+        "text": "To perpetuate the name and memory of John Arthur Roebuck Rudge who lived for many years in the adjoining house and after numerous experiments conducted in the basement was the first Englishman to produce moving pictures by means of photographs mounted on a revolving drum And also of his friend William Friese-Greene who had his studio at no. 9 The Corridor nearby,the inventor of commercial kinematography, being the first man to apply celluloid ribbon for this purpose. Kinematography can thus be attributed to the labours of these two citizens of Bath where this wonderful invention undoubtedly received its birth."
+    }, 
+    {
+        "headline": "John Arthur Roebuck Rudge bronze plaque in Bath", 
+        "startDate": "01/01/1837 12:00:00 AM", 
+        "endDate": "01/01/1903 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4109/5065440896_88b1726d60_z.jpg", 
+            "caption": "New Bond Street Place"
+        }, 
+        "text": "Here lived, worked and died Rudge inventor of the biophantascope the precursor of the kinematograph B.1837 D.1903"
+    }, 
+    {
+        "headline": "Charles Dickens black plaque in Bath", 
+        "startDate": "01/01/1840 12:00:00 AM", 
+        "endDate": "01/31/1840 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7061/6823971424_9d52da5c46_z.jpg", 
+            "caption": "35 St James\u00e2\u0080\u0099s Square"
+        }, 
+        "text": "Charles Dickens dwelt here 1840"
+    }, 
+    {
+        "headline": "Isambard Kingdom Brunel red plaque in Bath", 
+        "startDate": "01/01/1841 12:00:00 AM", 
+        "endDate": "01/31/1841 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm3.staticflickr.com/2930/14065977939_c3ab7edfe9_z.jpg", 
+            "caption": "Bath Spa Station, Dorchester Street"
+        }, 
+        "text": "Bath Spa Station 1841 focal point of I K Brunel's Great Western Railway through Bath, sympathetically designed in the pioneering phase of railway construction"
+    }, 
+    {
+        "headline": "Henry Stafford Smith bronze plaque in Bath", 
+        "startDate": "01/01/1843 12:00:00 AM", 
+        "endDate": "01/01/1903 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7067/6990808053_8433c1476c_z.jpg", 
+            "caption": "13 George Street"
+        }, 
+        "text": "These premises were formerly occupied by the philatelist Henry Stafford Smith (B. 1843. D. 1903) who with his brother Alfred William Smith (B. 1837. D.1880) published from 1863 onwards, \"The Stamp Collector's Magazine\". This was the pioneer philatelic journal and Bath is therefore the cradle city of philatelic literature."
+    }, 
+    {
+        "headline": "Louis-Napol\u00c3\u00a9on Bonaparte bronze plaque in Bath", 
+        "startDate": "01/01/1846 12:00:00 AM", 
+        "endDate": "12/31/1846 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4125/5065484960_850f305550_z.jpg", 
+            "caption": "Sydney Place"
+        }, 
+        "text": "Prince Louis Napoleon Napoleon III. Stayed here 1846. B.1808. D.1873."
+    }, 
+    {
+        "headline": "Frederic Leighton bronze plaque in Bath", 
+        "startDate": "01/01/1855 12:00:00 AM", 
+        "endDate": "01/01/1856 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4127/5064941127_7cbc72a1b0_z.jpg", 
+            "caption": "9 The Circus"
+        }, 
+        "text": "Here lived Lord Leighton, P.R.A. 1855. 1856."
+    }, 
+    {
+        "headline": "Charlotte bronze plaque in Bath", 
+        "startDate": "01/01/1871 12:00:00 AM", 
+        "endDate": "12/31/1817 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4085/5064863391_2238824a4e_z.jpg", 
+            "caption": "93 Sydney Place"
+        }, 
+        "text": "Here dwelt Queen Charlotte 1817"
+    }, 
+    {
+        "headline": "William Herschel and Caroline Herschel green plaque in Bath", 
+        "startDate": "01/01/1873 12:00:00 AM", 
+        "endDate": "01/01/1822 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7179/6844697316_e3ca94631d_z.jpg", 
+            "caption": "19 New King Street"
+        }, 
+        "text": "Here lived Scientist and Musician Sir William Herschel 1738-1822 from where he found the planet Uranus, March 13th 1781 he also discovered Infrared radiation in 1800 ~ and his sister Caroline Herschel early woman scientist 1750-1848 Hunter of comets"
+    }, 
+    {
+        "headline": "Connop Thirlwall bronze plaque in Bath", 
+        "startDate": "01/01/1874 12:00:00 AM", 
+        "endDate": "01/01/1875 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4131/5064878109_1a7566c30c_z.jpg", 
+            "caption": "Sydney Place"
+        }, 
+        "text": "Here dwelt Bishop Thirlwall 1874-75"
+    }, 
+    {
+        "headline": "Frederick Sleigh Roberts bronze plaque in Bath", 
+        "startDate": "01/01/1900 12:00:00 AM", 
+        "endDate": "01/01/1914 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7062/6990812193_1c12c3e04b_z.jpg", 
+            "caption": "9 Queen's Parade"
+        }, 
+        "text": "Field-Marshal Earl Roberts K.G. was a constant visitor in this house 1900-1914 B. 1832 D. 1914"
+    }, 
+    {
+        "headline": "George Saintsbury bronze plaque in Bath", 
+        "startDate": "01/01/1916 12:00:00 AM", 
+        "endDate": "01/01/1933 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm5.static.flickr.com/4086/5065576576_c0a325f628_z.jpg", 
+            "caption": "1a Royal Crescent"
+        }, 
+        "text": "Here lived George Saintsbury  F.B.A., M.A., Hon. LL.D., D. Litt. 1916-1933."
+    }, 
+    {
+        "headline": "Fred E. Weatherly bronze plaque in Bath", 
+        "startDate": "01/01/1919 12:00:00 AM", 
+        "endDate": "01/01/1928 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm8.staticflickr.com/7082/7035653733_8d96a26148_z.jpg", 
+            "caption": "10 Edward Street"
+        }, 
+        "text": "Here lived Fred E. Weatherly, K.C. song writer 1919 to 1928 B. 1848 D. 1929."
+    }, 
+    {
+        "headline": "Stone plaque \u00e2\u0084\u0096 30840 in Bath", 
+        "startDate": "01/01/1942 12:00:00 AM", 
+        "endDate": "01/01/1951 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm3.staticflickr.com/2913/14064822748_5db0ba1a0c_z.jpg", 
+            "caption": "Lansdown Road"
+        }, 
+        "text": "Hope House destroyed by enemy action 25 April 1942 re-opened 23 May 1951 by HRH the Duchess of Gloucester"
+    }, 
+    {
+        "headline": "Blue plaque \u00e2\u0084\u0096 12835 in Bath", 
+        "startDate": "01/01/1964 12:00:00 AM", 
+        "endDate": "01/01/2010 12:00:00 AM", 
+        "asset": {
+            "media": "http://farm3.staticflickr.com/2881/9209058013_28e43284c1_z.jpg", 
+            "caption": "?"
+        }, 
+        "text": "Bloomsbury.  Richard Barson, entrepreneur, visionary, father, friend.  1964 - 2010"
+    }, 
+    {
+        "headline": "Stone plaque \u00e2\u0084\u0096 31098 in Bath", 
+        "startDate": "", 
+        "endDate": "", 
+        "asset": {
+            "media": "http://farm4.staticflickr.com/3920/14362844940_bb9c663e40_z.jpg", 
+            "caption": "North Parade"
+        }, 
+        "text": "The chapel of St John of Beverly for the deaf and dumb"
+    }, 
+    {
+        "headline": "Jacob von Hogflume blue plaque in Bath", 
+        "startDate": "", 
+        "endDate": "", 
+        "asset": {
+            "media": "", 
+            "caption": "The Octagon, Milsom St"
+        }, 
+        "text": "Jacob von Hogflume 1864-1909 Inventor of time travel. lived here in 1547"
+    }, 
+    {
+        "headline": "Edgar and Dunstan brass plaque in Bath", 
+        "startDate": "", 
+        "endDate": "", 
+        "asset": {
+            "media": "http://farm9.staticflickr.com/8422/7803179600_15a03ca521_z.jpg", 
+            "caption": "Bath Abbey"
+        }, 
+        "text": "Edgar first king of all England was crowned by Dunstan Archbishop of Canterbury in the Saxon abbey on this site on Whitsunday A.D.973"
+    }
+]
+}
+}
