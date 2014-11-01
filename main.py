@@ -15,6 +15,10 @@ DATABASE = os.path.join(app.root_path, 'sqlite_db.db')
 
 @app.route('/')
 def show_landing():
+    return render_template('home.html')
+
+@app.route('/timeline')
+def show_timeline():
     return render_template('example_json.html')
 
 @app.route('/league')

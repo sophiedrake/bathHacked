@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="cover-container">
+	<h1 class="cover-head">History In Bath</h1>
+	<p class="cover-p">Explore the historic data for Bath including </p>
+	<p class="cover-p">plaques, photos and maps</p>
+</div>
+
+<div class="cover-options">
+	      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="http://farm5.static.flickr.com/4131/5065385016_23db073e46_b.jpg" style="width: 140px; height: 140px;">
+          <h2>Plaques</h2>
+          <p>A timeline view of plaques around Bath</p>
+          <p><a class="btn btn-default" href="/timeline" role="button">View</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="https://madisonoakley.files.wordpress.com/2013/01/high-st-bath-1.jpg?w=595&h=367" style="width: 140px; height: 140px;">
+          <h2>Photos</h2>
+          <p>Photos from books which have been plublished in Bath</p>
+          <p><a class="btn btn-default" href="https://www.flickr.com/photos/britishlibrary/tags/pubplacebath/" role="button">View</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="{{ url_for('static', filename='1572-jones.jpg') }}" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Maps</h2>
+          <p>A range of historic maps from B&NES and British Library</p>
+          <p><a class="btn btn-default" href="https://data.bathhacked.org/Heritage/Bath-Historical-Maps/iei5-h7uh" role="button">View</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+      <!-- START THE FEATURETTES -->
+
+      <hr>
+</div>
+
+{% endblock %}

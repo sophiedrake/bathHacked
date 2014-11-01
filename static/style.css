@@ -1,0 +1,42 @@
+.modal-header {
+    padding:9px 15px;
+    color: #ffffff;
+    border-bottom:1px solid #eee;
+    background-color: #77BF71;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+
+ .table th {
+   text-align: center;
+}
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.cover-head {
+    font-size: 50px;
+}
+
+.cover-options {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cover-p {
+    font-size: 24px;
+
+}
+
+
