@@ -2,11 +2,13 @@
     {
         "timeline": {
             "headline": "Bath Wall Plaques", 
-            "text": "Bath has a long and fascinating history. <p> One way to visualise this is through the plaques commemorating people and places around the town.</p> Explore this time line to travel from the medieval through the bustling social resort to the modern day ", 
-            "type": "default",
-			"startDate": "900,1,1",
-
-			 "date": [
+            "text": "Bath has a long and fascinating history. One way to visualise this is through the plaques commemorating people and places around the town. Explore this timeline to travel from the medieval through the bustling social resort to the modern day ", 
+            "type": "default", 
+        
+            "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
+            "caption" : "Data on plaques sourced from <a href=\" http://openplaques.org/\">Open Plaques</a>",
+            "startDate": "900,1,1",
+             "date": [
 
  
     {
@@ -15,8 +17,7 @@
         "endDate": "1494", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_z.jpg", 
-            "caption": "Bath Abbey",
-			"thumbnail":"http://farm8.staticflickr.com/7253/7803180040_98135b00d9_s.jpg" 
+            "caption": "Bath Abbey"
         }, 
         "text": "The tower of the <a href=\"http://www.bathabbey.org/history/norman-cathedral\"> Norman cathedral </a> built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
     }, 
@@ -26,10 +27,9 @@
         "endDate": "1755", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_z.jpg", 
-			"thumbnail":"http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_s.jpg", 
             "caption": "Trim Street"
         }, 
-        "text": "Part of the <a href=\"http://en.wikipedia.org/wiki/Bath_city_walls\">mediaeval wall </a> of the city of Bath"
+        "text": "Part of the mediaeval wall of the city of Bath"
     }, 
     {
         "headline": "Sally Lunn bronze plaque in Bath", 
@@ -37,10 +37,9 @@
         "endDate": "1483", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_z.jpg", 
-            "thumbnail": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_s.jpg", 
-			"caption": "4 North Parade Passage"
+            "caption": "4 North Parade Passage"
         }, 
-        "text": "The oldest house in Bath 1482 <a herf=\"http://en.wikipedia.org/wiki/Sally_Lunn_bun\"> Sally Lunn </a> lived here 1680"
+        "text": "The oldest house in Bath 1482 Sally Lunn lived here 1680"
     }, 
     {
         "headline": "George Wade bronze plaque in Bath", 
@@ -48,21 +47,19 @@
         "endDate": "1748", 
         "asset": {
             "media": "http://farm1.staticflickr.com/130/383555325_c87c589ebf_z.jpg", 
-			"thumbnail" : "http://farm1.staticflickr.com/130/383555325_c87c589ebf_s.jpg", 
             "caption": "Marshall Wade House, 14 Abbey Churchyard"
         }, 
-        "text": "Here <a herf=\"http://www.landmarktrust.org.uk/our-landmarks/properties/marshal-wades-house-9268/#tabs=1\"> lived Marshal Wade M.P. </a> B.1673 D.1748"
+        "text": "Here lived Marshal Wade M.P. B.1673 D.1748"
     }, 
     {
         "headline": "James Quin bronze plaque in Bath", 
         "startDate": "1693", 
         "endDate": "1766", 
         "asset": {
-            "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg",
-			"thumbnail" : "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_s.jpg",
+            "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg", 
             "caption": "4 Pierrepont Street"
         }, 
-        "text": "Here lived <a herf=\"http://en.wikisource.org/wiki/Quin,_James_(DNB00)\"> James Quin </a> B.1693 D.1766"
+        "text": "Here lived James Quin B.1693 D.1766"
     }, 
     {
         "headline": "Philip Stanhope bronze plaque in Bath", 
@@ -70,10 +67,9 @@
         "endDate": "1773", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_z.jpg", 
-            "thumbnail" :"http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_s.jpg",
-			"caption": "4 Pierrepont Street"
+            "caption": "4 Pierrepont Street"
         }, 
-        "text": "Here lived the <a href=\"http://en.wikipedia.org/wiki/Philip_Stanhope,_4th_Earl_of_Chesterfield\"> Earl of Chesterfield </a> B.1694 D.1773"
+        "text": "Here lived the Earl of Chesterfield B.1694 D.1773"
     }, 
     {
         "headline": "William Oliver bronze plaque in Bath", 
@@ -81,10 +77,9 @@
         "endDate": "1764 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_z.jpg", 
-            "thumbnail" : "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_s.jpg", 
-			"caption": "16-18 Queen Square"
+            "caption": "16-18 Queen Square"
         }, 
-        "text": "On this site stood the residence of <a href=\"http://en.wikipedia.org/wiki/William_Oliver_(physician)\"> William Oliver, M.D. </a> One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
+        "text": "On this site stood the residence of William Oliver, M.D. One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
     }, 
     {
         "headline": "Richard Brinsley Sheridan and Thomas Sheridan brass plaque in Bath", 
@@ -92,10 +87,9 @@
         "endDate": "1772 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_z.jpg", 
-            "thumbnail": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_s.jpg", 
-			"caption": "9 New King Street"
+            "caption": "9 New King Street"
         }, 
-        "text": "Near this site between 1770 and 1772 lived <a href=\"http://en.wikipedia.org/wiki/Thomas_Sheridan_(actor)\"> Thomas Sheridan Actor </a> & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
+        "text": "Near this site between 1770 and 1772 lived Thomas Sheridan Actor & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
     }, 
     {
         "headline": "John Wood the elder bronze plaque in Bath", 
@@ -103,10 +97,9 @@
         "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_z.jpg", 
-			"thumbnail": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_s.jpg", 
             "caption": "24 Queen Square"
         }, 
-        "text": "Here lived <a href=\" http://en.wikipedia.org/wiki/John_Wood,_the_Elder\"> John Wood </a> B. 1704 D. 1754"
+        "text": "Here lived John Wood B. 1704 D. 1754"
     }, 
     {
         "headline": "Henry Fielding and Sarah Fielding bronze plaque in Bath", 
@@ -114,10 +107,9 @@
         "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
-            "thumbnail": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
-			"caption": "Widcombe Lodge, Church Street"
+            "caption": "Widcombe Lodge, Church Street"
         }, 
-        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham\"> Henry Fielding </a> B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
+        "text": "Here lived Henry Fielding B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
     }, 
     {
         "headline": "William Pitt bronze plaque in Bath", 
@@ -125,10 +117,9 @@
         "endDate": "1778 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_z.jpg", 
-			 "thumbnail": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_s.jpg", 
             "caption": "7 The Circus"
         }, 
-        "text": "Here lived  <a href=\"http://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham\"> Earl of Chatham </a> B.1708-D.1778"
+        "text": "Here lived Earl of Chatham B.1708-D.1778"
     }, 
     {
         "headline": "Richard \"Beau\" Nash bronze plaque in Bath", 
@@ -547,7 +538,7 @@
         "asset": {
             "media": "http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_z.jpg", 
             "caption": "15 Johnstone Street",
-			"thumbnail":"http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_s.jpg"
+            "thumbnail":"http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_s.jpg"
         }, 
         "text": "Here lived William Pitt A.D. 1802"
     }, 
@@ -862,4 +853,5 @@
         "text": "Edgar first king of all England was crowned by Dunstan Archbishop of Canterbury in the Saxon abbey on this site on Whitsunday A.D.973"
     }
 ]
+}
 }
