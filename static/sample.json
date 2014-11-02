@@ -5,10 +5,7 @@
             "text": "Bath has a long and fascinating history. <p> One way to visualise this is through the plaques commemorating people and places around the town.</p> Explore this time line to travel from the medieval through the bustling social resort to the modern day ", 
             "type": "default",
 			"startDate": "900,1,1",
-			"asset": {
-			"media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
-			"caption" : "Data on plaques sourced from <a href=\" http://openplaques.org/\">Open Plaques</a>" },
-      
+
 			 "date": [
 
  
