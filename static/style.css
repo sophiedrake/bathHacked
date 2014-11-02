@@ -43,9 +43,16 @@
 
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 20px;
+    padding-top: 0px;
+    margin-top: 0px;
     padding-bottom: 20px;
 
 }
+
+.mast-foot {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+ }
 
 

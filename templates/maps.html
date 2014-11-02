@@ -27,7 +27,7 @@
 		      new google.maps.LatLng(ne1, ne2));
 
 		  var mapOptions = {
-		    zoom: 15,
+		    zoom: 14,
 		    center: bath
 		  };
 
@@ -45,9 +45,10 @@
 
     </script>
 
-    <div>
-    	<h1>Maps of Bath</h1>
-    		<h2>Showing a map of the year {{year}}</h2>
-    </div>
-    <div class="map-contain"id="map-canvas"></div>
+      	<h1>Maps of Bath: Showing a map of the year {{year}}</h1>
+      		<p><a href="/maps">Show none       </a><a href="/maps1572">Show 1572       </a><a href="/maps1852">Show 1852       </a><a href="/maps1891">Show 1891</a></p>
+         	<div class="map-contain"id="map-canvas"></div>
+
+
+    
 {% endblock %}

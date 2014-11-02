@@ -59,6 +59,10 @@ def show_timeline():
 #     ne = (ne[1], ne[0])
 #     return (sw,ne)
 
+@app.route('/maps')
+def show_currentMap():
+    return render_template('mapCurrent.html')
+
 @app.route('/maps1572')
 def show_maps():
     url = '../static/1572-jones.jpg'
@@ -67,6 +71,15 @@ def show_maps():
     sw = (51.37664244922259, -2.3664062869774063)
     ne = (51.3854469338053, -2.3507642429564233)
     return render_template('maps.html', sw=sw, ne=ne, url=url, year='1572')
+
+@app.route('/maps1852')
+def show_maps2():
+    url = '../static/bath1852.jpg'
+  #  result = getMapInfo('static/1572-geo.tiff')
+   # print result
+    sw = (51.349977143937735, -2.396141436914776)
+    ne = (51.4066626937285, -2.324443744982658)
+    return render_template('maps.html', sw=sw, ne=ne, url=url, year='1852')
 
 @app.route('/maps1891')
 def show_maps1():
