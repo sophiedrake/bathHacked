@@ -1,4 +1,4 @@
-     {
+    {
         "timeline": {
             "headline": "Bath Wall Plaques", 
             "text": "Bath has a long and fascinating history. One way to visualise this is through the plaques commemorating people and places around the town. Explore this timeline to travel from the medieval through the bustling social resort to the modern day ", 
@@ -168,7 +168,7 @@
             "media": "http://farm8.staticflickr.com/7051/6990828665_87baa7262b_z.jpg", 
             "caption": "5 Trim Street"
         }, 
-        "text": "Here dwelt <a href=\"http://en.wikipedia.org/wiki/James_Wolfe\" General Wolfe </a> B 1727 D 1759"
+        "text": "Here dwelt <a href=\"http://en.wikipedia.org/wiki/James_Wolfe\" > General Wolfe </a> B 1727 D 1759"
     }, 
     {
         "headline": "John Wood the younger bronze plaque in Bath", 
@@ -178,7 +178,7 @@
             "media": "http://farm8.staticflickr.com/7178/6823970000_0482fc4ee2_z.jpg", 
             "caption": "41 Gay Street"
         }, 
-        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/John_Wood,_the_Younger\" John Wood </a> Junr B. 1727 D. 1781"
+        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/John_Wood,_the_Younger\" > John Wood </a> Junr B. 1727 D. 1781"
     }, 
     {
         "headline": "Edmund Burke bronze plaque in Bath", 
@@ -188,7 +188,7 @@
             "media": "http://farm5.static.flickr.com/4125/5065622070_9f9fb5be37_z.jpg", 
             "caption": "11 North Parade"
         }, 
-        "text": "Here dwelt <a href=\"http://en.wikipedia.org/wiki/Edmund_Burke\" Edmund Burke </a> B.1729 D.1797"
+        "text": "Here dwelt <a href=\"http://en.wikipedia.org/wiki/Edmund_Burke\" > Edmund Burke </a> B.1729 D.1797"
     }, 
     {
         "headline": "Bath Stone plaque in Bath", 
@@ -198,7 +198,7 @@
             "media": "http://farm8.staticflickr.com/7328/14168442655_e8624c1636_z.jpg", 
             "caption": "Trim Street"
         }, 
-        "text": "This piece of ground was in the year 1736 set apart for the burial of patients dying in the <a href=\"http://www.brlsi.org/events-proceedings/proceedings/17972\" Bath General Hospital </a>, and after receiving 238 bodies was closed by the governors of that charity in the year 1849, from regard to the health of the living."
+        "text": "This piece of ground was in the year 1736 set apart for the burial of patients dying in the <a href=\"http://www.brlsi.org/events-proceedings/proceedings/17972\" > Bath General Hospital </a>, and after receiving 238 bodies was closed by the governors of that charity in the year 1849, from regard to the health of the living."
     }, 
     {
         "headline": "Bronze plaque in Bath", 
@@ -208,7 +208,7 @@
             "media": "http://farm9.staticflickr.com/8033/7886869266_4d53aef696_z.jpg", 
             "caption": "Queens Square"
         }, 
-        "text": "In memory of honours conferred and in gratitude for benefits bestowed on this city by <a href=\"http://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales\" HRH Frederick Prince of Wales </a> and His Royal Consort, in the year 1738 this obelisk was erected by Richard Nash."
+        "text": "In memory of honours conferred and in gratitude for benefits bestowed on this city by <a href=\"http://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales\"> HRH Frederick Prince of Wales </a> and His Royal Consort, in the year 1738 this obelisk was erected by Richard Nash."
     }, 
     {
         "headline": "Ralph Allen bronze plaque in Bath", 
@@ -218,7 +218,7 @@
             "media": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_z.jpg", 
             "caption": "Ralph Allen's Cottages, Prior Park Road"
         }, 
-        "text": "Ralph Allen's Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
+        "text": "Ralph Allen's Cottages Built by <a href=\"http://en.wikipedia.org/wiki/Ralph_Allen\" >Ralph Allen </a> to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
     }, 
     {
         "headline": "Hester Thrale bronze plaque in Bath", 
@@ -228,7 +228,7 @@
             "media": "http://farm5.static.flickr.com/4103/5065524312_bac5eaf142_z.jpg", 
             "caption": "8 Gay Street"
         }, 
-        "text": "Here lived Mrs Piozzi B.1741 D.1821"
+        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/Hester_Thrale\" >  Mrs Piozzi </a> B.1741 D.1821"
     }, 
     {
         "headline": "John Palmer bronze plaque in Bath", 
@@ -238,7 +238,7 @@
             "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
             "caption": "1 North Parade Buildings"
         }, 
-        "text": "Here lived John Palmer B.1741 D.1818"
+        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/John_Palmer_(Bath_architect)\" > John Palmer </a> B.1741 D.1818"
     }, 
     {
         "headline": "Richard \"Beau\" Nash black plaque in Bath", 
