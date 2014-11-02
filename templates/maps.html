@@ -38,15 +38,23 @@
 		      '{{ url }}',
 		      imageBounds);
 		  historicalOverlay.setMap(map);
-
 		}
 
 		google.maps.event.addDomListener(window, 'load', initialize);
 
+		function setOpacity() {
+		  var opacityStr = document.getElementById('opacity').value;
+		  var opacity = parseFloat(opacityStr);
+		  historicalOverlay.setOpacity(opacity);
+		}
+
     </script>
 
       	<h1>Maps of Bath: Showing a map of the year {{year}}</h1>
+
       		<p><a href="/maps">Show none       </a><a href="/maps1572">Show 1572       </a><a href="/maps1852">Show 1852       </a><a href="/maps1891">Show 1891</a></p>
+      		<input type="text" id="opacity" value="0.9"></input>
+			<input type="button" value="Set Opacity" onclick="setOpacity();"></input>
          	<div class="map-contain"id="map-canvas"></div>
 
 
