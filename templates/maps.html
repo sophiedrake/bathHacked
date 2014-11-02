@@ -1,0 +1,53 @@
+{% extends "layout.html" %}
+{% block body %}
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 50px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+    <script>
+
+				// Initialize the map and the custom overlay.
+		var historicalOverlay;
+
+		function initialize() {
+
+		  var bath = new google.maps.LatLng(51.379293, -2.359251);
+
+		  var sw1 = {{ sw[0] }}
+		  var sw2 = {{ sw[1] }}
+		  var ne1 = {{ ne[0] }}
+		  var ne2 = {{ ne[1] }}
+		  var imageBounds = new google.maps.LatLngBounds(
+		      new google.maps.LatLng(sw1,sw2),
+		      new google.maps.LatLng(ne1, ne2));
+
+		  var mapOptions = {
+		    zoom: 15,
+		    center: bath
+		  };
+
+		  var map = new google.maps.Map(document.getElementById('map-canvas'),
+		      mapOptions);
+
+		  historicalOverlay = new google.maps.GroundOverlay(
+		      '{{ url }}',
+		      imageBounds);
+		  historicalOverlay.setMap(map);
+
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script>
+
+    <div class="container">
+    	<h1>Maps of Bath</h1>
+    		<h2>Showing a map of the year {{year}}</h2>
+    </div>
+    <div class="map-contain"id="map-canvas"></div>
+{% endblock %}
