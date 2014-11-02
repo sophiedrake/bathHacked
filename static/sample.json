@@ -4,9 +4,9 @@
             "headline": "Bath Wall Plaques", 
             "text": "Bath has a long and fascinating history. One way to visualise this is through the plaques commemorating people and places around the town. Explore this timeline to travel from the medieval through the bustling social resort to the modern day ", 
             "type": "default", 
-            "date": "rem", 
+        
 			"media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
-			caption" : "Data on plaques sourced from <a href="http://openplaques.org/">Open Plaques</a>"
+			"caption" : "Data on plaques sourced from <a href=\" http://openplaques.org/\">Open Plaques</a>",
             "startDate": "900,1,1",
 			 "date": [
 
@@ -19,7 +19,7 @@
             "media": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_z.jpg", 
             "caption": "Bath Abbey"
         }, 
-        "text": "The tower of the <a href="http://www.bathabbey.org/history/norman-cathedral"> Norman cathedral </a> built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
+        "text": "The tower of the <a href=\"http://www.bathabbey.org/history/norman-cathedral\"> Norman cathedral </a> built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
     }, 
     {
         "headline": "Bronze plaque for mediaeval wall in Bath", 
@@ -122,19 +122,19 @@
         "text": "Here lived Earl of Chatham B.1708-D.1778"
     }, 
     {
-        "headline": "Richard 'Beau' Nash bronze plaque in Bath", 
+        "headline": "Richard \"Beau\" Nash bronze plaque in Bath", 
         "startDate": "1708 ", 
         "endDate": "1761 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8293/7803180622_6e0e0a8e3c_z.jpg", 
             "caption": "Grand Parade"
         }, 
-        "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugerated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
+        "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugurated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
     }, 
     {
         "headline": "John Christopher Smith bronze plaque in Bath", 
-        "startDate": "1712 ", 
-        "endDate": "1795 ", 
+        "startDate": "1712", 
+        "endDate": "1795", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7041/6990799403_ede3d0e782_z.jpg", 
             "caption": "18 Brock Street"
@@ -219,7 +219,7 @@
             "media": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_z.jpg", 
             "caption": "Ralph Allen's Cottages, Prior Park Road"
         }, 
-        "text": "Ralph Allens' Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
+        "text": "Ralph Allen's Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
     }, 
     {
         "headline": "Hester Thrale bronze plaque in Bath", 
@@ -242,7 +242,7 @@
         "text": "Here lived John Palmer B.1741 D.1818"
     }, 
     {
-        "headline": "Richard 'Beau' Nash black plaque in Bath", 
+        "headline": "Richard \"Beau\" Nash black plaque in Bath", 
         "startDate": "1743 ", 
         "endDate": "1761 ", 
         "asset": {
@@ -262,7 +262,7 @@
         "text": "This building, erected in 1750, was formerly the  Theatre Royal managed by the celebrated John Palmer, M.P., originator of the mail coach system and holder of the first Royal Patent ever granted to a provincial theatre, to its stock company, for a period of four years (1778-82) belonged the renowned Sarah Siddons, with her husband and sister. Here also appeared her brothers, John Philip Kemble and Stephen Kemble. Here John Henderson and R.W. Elliston both made their first appearances on the stage and were for a long time leading actors. Samuel Foote, George Frederick Cooke, William Dimond, Benjamin Engledon, George and Mrs. Bartley, and many other famous players also acted in this theatre, which was closed in 1805."
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 11832 in Bath", 
+        "headline": "Stone plaque in Bath", 
         "startDate": "1754 ", 
         "endDate": "1754 ", 
         "asset": {
@@ -273,8 +273,8 @@
     }, 
     {
         "headline": "Sarah Siddons bronze plaque in Bath", 
-        "startDate": "1755 ", 
-        "endDate": "1831 ", 
+        "startDate": "1755", 
+        "endDate": "1831", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7062/6823969046_228c2c6d42_z.jpg", 
             "caption": "33 The Paragon"
@@ -293,8 +293,8 @@
     }, 
     {
         "headline": "Horatio Nelson bronze plaque in Bath", 
-        "startDate": "1758 ", 
-        "endDate": "1805 ", 
+        "startDate": "1758", 
+        "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065656668_a2c2bc5b1d_z.jpg", 
             "caption": "2 Pierrepont Street"
@@ -302,9 +302,9 @@
         "text": "Here dwelt Admiral Lord Nelson B.1758 D.1805"
     }, 
     {
-        "headline": "Richard 'Beau' Nash white plaque in Bath", 
+        "headline": "Richard \"Beau\" Nash white plaque in Bath", 
         "startDate": "1761 ", 
-        "endDate": "1761 ", 
+        "endDate": "1761", 
         "asset": {
             "media": "http://commons.wikimedia.org/wiki/Special:FilePath/Beau_Nash_plaque,_Bath.jpg?width=75", 
             "caption": "Barton Street"
@@ -313,8 +313,8 @@
     }, 
     {
         "headline": "Horace Walpole bronze plaque in Bath", 
-        "startDate": "1766 ", 
-        "endDate": "1766 ", 
+        "startDate": "1766", 
+        "endDate": "1766", 
         "asset": {
             "media": "http://farm6.staticflickr.com/5588/15046628587_ec7a925fe7_z.jpg", 
             "caption": "Chapel Court, St John's Hospital"
@@ -323,8 +323,8 @@
     }, 
     {
         "headline": "Elizabeth Anne Linley bronze plaque in Bath", 
-        "startDate": "1767 ", 
-        "endDate": "1771 ", 
+        "startDate": "1767", 
+        "endDate": "1771", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4088/5065662608_861f570f12_z.jpg", 
             "caption": "Old Orchard Street"
@@ -333,8 +333,8 @@
     }, 
     {
         "headline": "Thomas Barker bronze plaque in Bath", 
-        "startDate": "1769 ", 
-        "endDate": "1847 ", 
+        "startDate": "1769", 
+        "endDate": "1847", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8180/7886870520_a1bde2f51c_z.jpg", 
             "caption": "Doric House, Cavendish Road"
@@ -343,8 +343,8 @@
     }, 
     {
         "headline": "Christopher Anstey bronze plaque in Bath", 
-        "startDate": "1770 ", 
-        "endDate": "1805 ", 
+        "startDate": "1770", 
+        "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4091/5064975289_65d228067f_z.jpg", 
             "caption": "5 Royal Crescent"
@@ -537,8 +537,8 @@
         "endDate": "1802 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_z.jpg", 
-            "caption": "15 Johnstone Street"
-			"thumbnail":"http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_s.jpg",
+            "caption": "15 Johnstone Street",
+			"thumbnail":"http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_s.jpg"
         }, 
         "text": "Here lived William Pitt A.D. 1802"
     }, 
@@ -698,7 +698,7 @@
         "endDate": "01/31/1840 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7061/6823971424_9d52da5c46_z.jpg", 
-            "caption": "35 St James\u00e2\u0080\u0099s Square"
+            "caption": "35 St James's Square"
         }, 
         "text": "Charles Dickens dwelt here 1840"
     }, 
@@ -714,8 +714,8 @@
     }, 
     {
         "headline": "Henry Stafford Smith bronze plaque in Bath", 
-        "startDate": "1843 ", 
-        "endDate": "1903 ", 
+        "startDate": "1843", 
+        "endDate": "1903", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7067/6990808053_8433c1476c_z.jpg", 
             "caption": "13 George Street"
@@ -723,7 +723,7 @@
         "text": "These premises were formerly occupied by the philatelist Henry Stafford Smith (B. 1843. D. 1903) who with his brother Alfred William Smith (B. 1837. D.1880) published from 1863 onwards, \"The Stamp Collector's Magazine\". This was the pioneer philatelic journal and Bath is therefore the cradle city of philatelic literature."
     }, 
     {
-        "headline": "Louis-Napol\u00c3\u00a9on Bonaparte bronze plaque in Bath", 
+        "headline": "Louis-Napolon Bonaparte bronze plaque in Bath", 
         "startDate": "1846 ", 
         "endDate": "1846 ", 
         "asset": {
@@ -784,8 +784,8 @@
     }, 
     {
         "headline": "George Saintsbury bronze plaque in Bath", 
-        "startDate": "1916 ", 
-        "endDate": "1933 ", 
+        "startDate": "1916", 
+        "endDate": "1933", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065576576_c0a325f628_z.jpg", 
             "caption": "1a Royal Crescent"
@@ -794,8 +794,8 @@
     }, 
     {
         "headline": "Fred E. Weatherly bronze plaque in Bath", 
-        "startDate": "1919 ", 
-        "endDate": "1928 ", 
+        "startDate": "1919", 
+        "endDate": "1928", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7082/7035653733_8d96a26148_z.jpg", 
             "caption": "10 Edward Street"
@@ -803,9 +803,9 @@
         "text": "Here lived Fred E. Weatherly, K.C. song writer 1919 to 1928 B. 1848 D. 1929."
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 30840 in Bath", 
-        "startDate": "1942 ", 
-        "endDate": "1951 ", 
+        "headline": "Stone plaque in Bath", 
+        "startDate": "1942", 
+        "endDate": "1951", 
         "asset": {
             "media": "http://farm3.staticflickr.com/2913/14064822748_5db0ba1a0c_z.jpg", 
             "caption": "Lansdown Road"
@@ -813,12 +813,12 @@
         "text": "Hope House destroyed by enemy action 25 April 1942 re-opened 23 May 1951 by HRH the Duchess of Gloucester"
     }, 
     {
-        "headline": "Blue plaque \u00e2\u0084\u0096 12835 in Bath", 
+        "headline": "Blue plaque in Bath", 
         "startDate": "1964 ", 
         "endDate": "2010 ", 
         "asset": {
             "media": "http://farm3.staticflickr.com/2881/9209058013_28e43284c1_z.jpg", 
-            "caption": "?"
+            "caption": ""
         }, 
         "text": "Bloomsbury.  Richard Barson, entrepreneur, visionary, father, friend.  1964 - 2010"
     }, 
@@ -835,7 +835,7 @@
     {
         "headline": "Jacob von Hogflume blue plaque in Bath", 
         "startDate": "", 
-        "endDate": "", 
+        "endDate": "1909", 
         "asset": {
             "media": "", 
             "caption": "The Octagon, Milsom St"
