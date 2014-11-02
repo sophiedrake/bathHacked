@@ -38,7 +38,7 @@
             "media": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_z.jpg", 
             "caption": "4 North Parade Passage"
         }, 
-        "text": "The oldest house in Bath 1482 Sally Lunn lived here 1680"
+        "text": "The oldest house in Bath 1482 <a herf=\"http://en.wikipedia.org/wiki/Sally_Lunn_bun\"> Sally Lunn </a> lived here 1680"
     }, 
     {
         "headline": "George Wade bronze plaque in Bath", 
@@ -48,7 +48,7 @@
             "media": "http://farm1.staticflickr.com/130/383555325_c87c589ebf_z.jpg", 
             "caption": "Marshall Wade House, 14 Abbey Churchyard"
         }, 
-        "text": "Here lived Marshal Wade M.P. B.1673 D.1748"
+        "text": "Here <a herf=\"http://www.landmarktrust.org.uk/our-landmarks/properties/marshal-wades-house-9268/#tabs=1\"> lived Marshal Wade M.P. </a> B.1673 D.1748"
     }, 
     {
         "headline": "James Quin bronze plaque in Bath", 
@@ -58,7 +58,7 @@
             "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg", 
             "caption": "4 Pierrepont Street"
         }, 
-        "text": "Here lived James Quin B.1693 D.1766"
+        "text": "Here lived <a herf=\"http://en.wikisource.org/wiki/Quin,_James_(DNB00)\"> James Quin </a> B.1693 D.1766"
     }, 
     {
         "headline": "Philip Stanhope bronze plaque in Bath", 
@@ -68,7 +68,7 @@
             "media": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_z.jpg", 
             "caption": "4 Pierrepont Street"
         }, 
-        "text": "Here lived the Earl of Chesterfield B.1694 D.1773"
+        "text": "Here lived the <a href=\"http://en.wikipedia.org/wiki/Philip_Stanhope,_4th_Earl_of_Chesterfield\"> Earl of Chesterfield </a> B.1694 D.1773"
     }, 
     {
         "headline": "William Oliver bronze plaque in Bath", 
@@ -78,7 +78,7 @@
             "media": "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_z.jpg", 
             "caption": "16-18 Queen Square"
         }, 
-        "text": "On this site stood the residence of William Oliver, M.D. One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
+        "text": "On this site stood the residence of <a href=\"http://en.wikipedia.org/wiki/William_Oliver_(physician)\"> William Oliver, M.D. </a> One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
     }, 
     {
         "headline": "Richard Brinsley Sheridan and Thomas Sheridan brass plaque in Bath", 
@@ -88,7 +88,7 @@
             "media": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_z.jpg", 
             "caption": "9 New King Street"
         }, 
-        "text": "Near this site between 1770 and 1772 lived Thomas Sheridan Actor & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
+        "text": "Near this site between 1770 and 1772 lived <a href=\"http://en.wikipedia.org/wiki/Thomas_Sheridan_(actor)\"> Thomas Sheridan Actor </a> & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
     }, 
     {
         "headline": "John Wood the elder bronze plaque in Bath", 
@@ -98,7 +98,7 @@
             "media": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_z.jpg", 
             "caption": "24 Queen Square"
         }, 
-        "text": "Here lived John Wood B. 1704 D. 1754"
+        "text": "Here lived <a href=\" http://en.wikipedia.org/wiki/John_Wood,_the_Elder\"> John Wood </a> B. 1704 D. 1754"
     }, 
     {
         "headline": "Henry Fielding and Sarah Fielding bronze plaque in Bath", 
@@ -108,7 +108,7 @@
             "media": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
             "caption": "Widcombe Lodge, Church Street"
         }, 
-        "text": "Here lived Henry Fielding B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
+        "text": "Here lived <a href=\"http://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham\"> Henry Fielding </a> B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
     }, 
     {
         "headline": "William Pitt bronze plaque in Bath", 
@@ -118,7 +118,7 @@
             "media": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_z.jpg", 
             "caption": "7 The Circus"
         }, 
-        "text": "Here lived Earl of Chatham B.1708-D.1778"
+         "text": "Here lived  <a href=\"http://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham\"> Earl of Chatham </a> B.1708-D.1778"
     }, 
     {
         "headline": "Richard \"Beau\" Nash bronze plaque in Bath", 
