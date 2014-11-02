@@ -1,28 +1,30 @@
 
     {
         "timeline": {
-            "headline": "Bath Blue Plaques", 
-            "text": "Plaques in Bath", 
+            "headline": "Bath Wall Plaques", 
+            "text": "Bath has a long and fascinating history. One way to visualise this is through the plaques commemorating people and places around the town. Explore this timeline to travel from the medieval through the bustling social resort to the modern day ", 
             "type": "default", 
-            "date": "rem", 
-            "startDate": "600,1,26",
-			 "date": [
+        
+            "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
+            "caption" : "Data on plaques sourced from <a href=\" http://openplaques.org/\">Open Plaques</a>",
+            "startDate": "900,1,1",
+             "date": [
 
  
     {
-        "headline": "Black plaque \u00e2\u0084\u0096 11258 in Bath", 
+        "headline": "Site of the Norman cathedral in Bath", 
         "startDate": "1090", 
         "endDate": "1494", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_z.jpg", 
             "caption": "Bath Abbey"
         }, 
-        "text": "The tower of the Norman cathedral built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
+        "text": "The tower of the <a href=\"http://www.bathabbey.org/history/norman-cathedral\"> Norman cathedral </a> built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
     }, 
     {
-        "headline": "Bronze plaque \u00e2\u0084\u0096 11256 in Bath", 
-        "startDate": "12/25/1182 12:00:00 AM", 
-        "endDate": "01/01/1755 12:00:00 AM", 
+        "headline": "Bronze plaque for mediaeval wall in Bath", 
+        "startDate": "1182", 
+        "endDate": "1755", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_z.jpg", 
             "caption": "Trim Street"
@@ -30,9 +32,9 @@
         "text": "Part of the mediaeval wall of the city of Bath"
     }, 
     {
-        "headline": "Sally Lunn brown plaque in Bath", 
-        "startDate": "12/23/1481 12:00:00 AM", 
-        "endDate": "12/22/1483 12:00:00 AM", 
+        "headline": "Sally Lunn bronze plaque in Bath", 
+        "startDate": "1481", 
+        "endDate": "1483", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_z.jpg", 
             "caption": "4 North Parade Passage"
@@ -41,8 +43,8 @@
     }, 
     {
         "headline": "George Wade bronze plaque in Bath", 
-        "startDate": "01/01/1673 12:00:00 AM", 
-        "endDate": "01/01/1748 12:00:00 AM", 
+        "startDate": "1673", 
+        "endDate": "1748", 
         "asset": {
             "media": "http://farm1.staticflickr.com/130/383555325_c87c589ebf_z.jpg", 
             "caption": "Marshall Wade House, 14 Abbey Churchyard"
@@ -51,8 +53,8 @@
     }, 
     {
         "headline": "James Quin bronze plaque in Bath", 
-        "startDate": "01/01/1693 12:00:00 AM", 
-        "endDate": "01/01/1766 12:00:00 AM", 
+        "startDate": "1693", 
+        "endDate": "1766", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg", 
             "caption": "4 Pierrepont Street"
@@ -61,8 +63,8 @@
     }, 
     {
         "headline": "Philip Stanhope bronze plaque in Bath", 
-        "startDate": "01/01/1694 12:00:00 AM", 
-        "endDate": "01/01/1773 12:00:00 AM", 
+        "startDate": "1694", 
+        "endDate": "1773", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_z.jpg", 
             "caption": "4 Pierrepont Street"
@@ -71,8 +73,8 @@
     }, 
     {
         "headline": "William Oliver bronze plaque in Bath", 
-        "startDate": "01/01/1695 12:00:00 AM", 
-        "endDate": "01/01/1764 12:00:00 AM", 
+        "startDate": "1695", 
+        "endDate": "1764 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_z.jpg", 
             "caption": "16-18 Queen Square"
@@ -81,8 +83,8 @@
     }, 
     {
         "headline": "Richard Brinsley Sheridan and Thomas Sheridan brass plaque in Bath", 
-        "startDate": "01/01/1700 12:00:00 AM", 
-        "endDate": "01/01/1772 12:00:00 AM", 
+        "startDate": "1700 ", 
+        "endDate": "1772 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_z.jpg", 
             "caption": "9 New King Street"
@@ -91,8 +93,8 @@
     }, 
     {
         "headline": "John Wood the elder bronze plaque in Bath", 
-        "startDate": "01/01/1704 12:00:00 AM", 
-        "endDate": "01/01/1754 12:00:00 AM", 
+        "startDate": "1704 ", 
+        "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_z.jpg", 
             "caption": "24 Queen Square"
@@ -101,8 +103,8 @@
     }, 
     {
         "headline": "Henry Fielding and Sarah Fielding bronze plaque in Bath", 
-        "startDate": "01/01/1707 12:00:00 AM", 
-        "endDate": "01/01/1754 12:00:00 AM", 
+        "startDate": "1707 ", 
+        "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
             "caption": "Widcombe Lodge, Church Street"
@@ -111,8 +113,8 @@
     }, 
     {
         "headline": "William Pitt bronze plaque in Bath", 
-        "startDate": "01/01/1708 12:00:00 AM", 
-        "endDate": "01/01/1778 12:00:00 AM", 
+        "startDate": "1708 ", 
+        "endDate": "1778 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_z.jpg", 
             "caption": "7 The Circus"
@@ -120,19 +122,19 @@
         "text": "Here lived Earl of Chatham B.1708-D.1778"
     }, 
     {
-        "headline": "Richard 'Beau' Nash bronze plaque in Bath", 
-        "startDate": "01/01/1708 12:00:00 AM", 
-        "endDate": "01/01/1761 12:00:00 AM", 
+        "headline": "Richard \"Beau\" Nash bronze plaque in Bath", 
+        "startDate": "1708 ", 
+        "endDate": "1761 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8293/7803180622_6e0e0a8e3c_z.jpg", 
             "caption": "Grand Parade"
         }, 
-        "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugerated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
+        "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugurated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
     }, 
     {
         "headline": "John Christopher Smith bronze plaque in Bath", 
-        "startDate": "01/01/1712 12:00:00 AM", 
-        "endDate": "01/01/1795 12:00:00 AM", 
+        "startDate": "1712", 
+        "endDate": "1795", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7041/6990799403_ede3d0e782_z.jpg", 
             "caption": "18 Brock Street"
@@ -141,8 +143,8 @@
     }, 
     {
         "headline": "Robert Clive bronze plaque in Bath", 
-        "startDate": "01/01/1725 12:00:00 AM", 
-        "endDate": "01/01/1774 12:00:00 AM", 
+        "startDate": "1725 ", 
+        "endDate": "1774 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4089/5065545252_d8c8ea3a0c_z.jpg", 
             "caption": "14 The Circus"
@@ -151,8 +153,8 @@
     }, 
     {
         "headline": "Thomas Gainsborough bronze plaque in Bath", 
-        "startDate": "01/01/1727 12:00:00 AM", 
-        "endDate": "01/01/1788 12:00:00 AM", 
+        "startDate": "1727 ", 
+        "endDate": "1788 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4107/5064929311_6ffebb024c_z.jpg", 
             "caption": "17 The Circus"
@@ -161,8 +163,8 @@
     }, 
     {
         "headline": "James Wolfe bronze plaque in Bath", 
-        "startDate": "01/01/1727 12:00:00 AM", 
-        "endDate": "01/01/1759 12:00:00 AM", 
+        "startDate": "1727 ", 
+        "endDate": "1759 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7051/6990828665_87baa7262b_z.jpg", 
             "caption": "5 Trim Street"
@@ -171,8 +173,8 @@
     }, 
     {
         "headline": "John Wood the younger bronze plaque in Bath", 
-        "startDate": "01/01/1727 12:00:00 AM", 
-        "endDate": "01/01/1781 12:00:00 AM", 
+        "startDate": "1727 ", 
+        "endDate": "1781 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7178/6823970000_0482fc4ee2_z.jpg", 
             "caption": "41 Gay Street"
@@ -181,8 +183,8 @@
     }, 
     {
         "headline": "Edmund Burke bronze plaque in Bath", 
-        "startDate": "01/01/1729 12:00:00 AM", 
-        "endDate": "01/01/1791 12:00:00 AM", 
+        "startDate": "1729 ", 
+        "endDate": "1791 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4125/5065622070_9f9fb5be37_z.jpg", 
             "caption": "11 North Parade"
@@ -190,9 +192,9 @@
         "text": "Here dwelt Edmund Burke B.1729 D.1797"
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 30751 in Bath", 
-        "startDate": "01/01/1736 12:00:00 AM", 
-        "endDate": "01/01/1849 12:00:00 AM", 
+        "headline": "Bath Stone plaque in Bath", 
+        "startDate": "1736 ", 
+        "endDate": "1849 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7328/14168442655_e8624c1636_z.jpg", 
             "caption": "Trim Street"
@@ -200,9 +202,9 @@
         "text": "This piece of ground was in the year 1736 set apart for the burial of patients dying in the Bath General Hospital, and after receiving 238 bodies was closed by the governors of that charity in the year 1849, from regard to the health of the living."
     }, 
     {
-        "headline": "Bronze plaque \u00e2\u0084\u0096 11835 in Bath", 
-        "startDate": "01/01/1738 12:00:00 AM", 
-        "endDate": "12/31/1738 12:00:00 AM", 
+        "headline": "Bronze plaque in Bath", 
+        "startDate": "1738 ", 
+        "endDate": "1738 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8033/7886869266_4d53aef696_z.jpg", 
             "caption": "Queens Square"
@@ -211,18 +213,18 @@
     }, 
     {
         "headline": "Ralph Allen bronze plaque in Bath", 
-        "startDate": "01/01/1740 12:00:00 AM", 
-        "endDate": "01/31/1740 12:00:00 AM", 
+        "startDate": "1740 ", 
+        "endDate": "01/31/1740 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_z.jpg", 
             "caption": "Ralph Allen's Cottages, Prior Park Road"
         }, 
-        "text": "Ralph Allens' Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
+        "text": "Ralph Allen's Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
     }, 
     {
         "headline": "Hester Thrale bronze plaque in Bath", 
-        "startDate": "01/01/1741 12:00:00 AM", 
-        "endDate": "01/01/1821 12:00:00 AM", 
+        "startDate": "1741 ", 
+        "endDate": "1821 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4103/5065524312_bac5eaf142_z.jpg", 
             "caption": "8 Gay Street"
@@ -231,8 +233,8 @@
     }, 
     {
         "headline": "John Palmer bronze plaque in Bath", 
-        "startDate": "01/01/1741 12:00:00 AM", 
-        "endDate": "01/01/1818 12:00:00 AM", 
+        "startDate": "1741 ", 
+        "endDate": "1818 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
             "caption": "1 North Parade Buildings"
@@ -240,9 +242,9 @@
         "text": "Here lived John Palmer B.1741 D.1818"
     }, 
     {
-        "headline": "Richard 'Beau' Nash black plaque in Bath", 
-        "startDate": "01/01/1743 12:00:00 AM", 
-        "endDate": "01/01/1761 12:00:00 AM", 
+        "headline": "Richard \"Beau\" Nash black plaque in Bath", 
+        "startDate": "1743 ", 
+        "endDate": "1761 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8257/8635781974_576275220c_z.jpg", 
             "caption": "Saw Street"
@@ -251,8 +253,8 @@
     }, 
     {
         "headline": "Theatre Royal Bath, John Palmer, Sarah Siddons, John Philip Kemble, and 8 others in Bath", 
-        "startDate": "01/01/1750 12:00:00 AM", 
-        "endDate": "01/01/1805 12:00:00 AM", 
+        "startDate": "1750 ", 
+        "endDate": "1805 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4124/5065061157_98deee8af5_z.jpg", 
             "caption": "Old Orchard Street"
@@ -260,9 +262,9 @@
         "text": "This building, erected in 1750, was formerly the  Theatre Royal managed by the celebrated John Palmer, M.P., originator of the mail coach system and holder of the first Royal Patent ever granted to a provincial theatre, to its stock company, for a period of four years (1778-82) belonged the renowned Sarah Siddons, with her husband and sister. Here also appeared her brothers, John Philip Kemble and Stephen Kemble. Here John Henderson and R.W. Elliston both made their first appearances on the stage and were for a long time leading actors. Samuel Foote, George Frederick Cooke, William Dimond, Benjamin Engledon, George and Mrs. Bartley, and many other famous players also acted in this theatre, which was closed in 1805."
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 11832 in Bath", 
-        "startDate": "01/01/1754 12:00:00 AM", 
-        "endDate": "12/31/1754 12:00:00 AM", 
+        "headline": "Stone plaque in Bath", 
+        "startDate": "1754 ", 
+        "endDate": "1754 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8310/7886867212_4252aaa2b6_z.jpg", 
             "caption": "Broad Street"
@@ -271,8 +273,8 @@
     }, 
     {
         "headline": "Sarah Siddons bronze plaque in Bath", 
-        "startDate": "01/01/1755 12:00:00 AM", 
-        "endDate": "01/01/1831 12:00:00 AM", 
+        "startDate": "1755", 
+        "endDate": "1831", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7062/6823969046_228c2c6d42_z.jpg", 
             "caption": "33 The Paragon"
@@ -281,8 +283,8 @@
     }, 
     {
         "headline": "Caleb Hillier Parry and W. E. Parry bronze plaque in Bath", 
-        "startDate": "01/01/1755 12:00:00 AM", 
-        "endDate": "01/01/1822 12:00:00 AM", 
+        "startDate": "1755 ", 
+        "endDate": "1822 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4110/5064950947_de59fb131a_z.jpg", 
             "caption": "27 The Circus"
@@ -291,8 +293,8 @@
     }, 
     {
         "headline": "Horatio Nelson bronze plaque in Bath", 
-        "startDate": "01/01/1758 12:00:00 AM", 
-        "endDate": "01/01/1805 12:00:00 AM", 
+        "startDate": "1758", 
+        "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065656668_a2c2bc5b1d_z.jpg", 
             "caption": "2 Pierrepont Street"
@@ -300,9 +302,9 @@
         "text": "Here dwelt Admiral Lord Nelson B.1758 D.1805"
     }, 
     {
-        "headline": "Richard 'Beau' Nash white plaque in Bath", 
-        "startDate": "01/01/1761 12:00:00 AM", 
-        "endDate": "12/31/1761 12:00:00 AM", 
+        "headline": "Richard \"Beau\" Nash white plaque in Bath", 
+        "startDate": "1761 ", 
+        "endDate": "1761", 
         "asset": {
             "media": "http://commons.wikimedia.org/wiki/Special:FilePath/Beau_Nash_plaque,_Bath.jpg?width=75", 
             "caption": "Barton Street"
@@ -311,8 +313,8 @@
     }, 
     {
         "headline": "Horace Walpole bronze plaque in Bath", 
-        "startDate": "01/01/1766 12:00:00 AM", 
-        "endDate": "12/31/1766 12:00:00 AM", 
+        "startDate": "1766", 
+        "endDate": "1766", 
         "asset": {
             "media": "http://farm6.staticflickr.com/5588/15046628587_ec7a925fe7_z.jpg", 
             "caption": "Chapel Court, St John's Hospital"
@@ -321,8 +323,8 @@
     }, 
     {
         "headline": "Elizabeth Anne Linley bronze plaque in Bath", 
-        "startDate": "01/01/1767 12:00:00 AM", 
-        "endDate": "01/01/1771 12:00:00 AM", 
+        "startDate": "1767", 
+        "endDate": "1771", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4088/5065662608_861f570f12_z.jpg", 
             "caption": "Old Orchard Street"
@@ -331,8 +333,8 @@
     }, 
     {
         "headline": "Thomas Barker bronze plaque in Bath", 
-        "startDate": "01/01/1769 12:00:00 AM", 
-        "endDate": "01/01/1847 12:00:00 AM", 
+        "startDate": "1769", 
+        "endDate": "1847", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8180/7886870520_a1bde2f51c_z.jpg", 
             "caption": "Doric House, Cavendish Road"
@@ -341,8 +343,8 @@
     }, 
     {
         "headline": "Christopher Anstey bronze plaque in Bath", 
-        "startDate": "01/01/1770 12:00:00 AM", 
-        "endDate": "01/01/1805 12:00:00 AM", 
+        "startDate": "1770", 
+        "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4091/5064975289_65d228067f_z.jpg", 
             "caption": "5 Royal Crescent"
@@ -351,8 +353,8 @@
     }, 
     {
         "headline": "William Wordsworth bronze plaque in Bath", 
-        "startDate": "01/01/1770 12:00:00 AM", 
-        "endDate": "01/01/1850 12:00:00 AM", 
+        "startDate": "1770 ", 
+        "endDate": "1850 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5065632228_db387cb486_z.jpg", 
             "caption": "9 North Parade"
@@ -361,8 +363,8 @@
     }, 
     {
         "headline": "John Andre bronze plaque in Bath", 
-        "startDate": "01/01/1770 12:00:00 AM", 
-        "endDate": "12/31/1770 12:00:00 AM", 
+        "startDate": "1770 ", 
+        "endDate": "1770 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4108/5064955287_b3ef3ae395_z.jpg", 
             "caption": "22 The Circus"
@@ -371,8 +373,8 @@
     }, 
     {
         "headline": "Oliver Goldsmith bronze plaque in Bath", 
-        "startDate": "01/01/1771 12:00:00 AM", 
-        "endDate": "12/31/1771 12:00:00 AM", 
+        "startDate": "1771 ", 
+        "endDate": "1771 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4127/5065014839_259fc05e79_z.jpg", 
             "caption": "North Parade"
@@ -381,8 +383,8 @@
     }, 
     {
         "headline": "Sydney W. Smith bronze plaque in Bath", 
-        "startDate": "01/01/1772 12:00:00 AM", 
-        "endDate": "01/01/1774 12:00:00 AM", 
+        "startDate": "1772 ", 
+        "endDate": "1774 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4146/5065571872_0b240e2fb6_z.jpg", 
             "caption": "12 Catherine Street"
@@ -391,8 +393,8 @@
     }, 
     {
         "headline": "Thomas Linley, Elizabeth Anne Linley, and Richard Brinsley Sheridan bronze plaque in Bath", 
-        "startDate": "03/18/1772 12:00:00 AM", 
-        "endDate": "03/18/1772 12:00:00 AM", 
+        "startDate": "03/18/1772 ", 
+        "endDate": "03/18/1772 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4146/5064986669_00824bfe9e_z.jpg", 
             "caption": "11 Royal Crescent"
@@ -401,8 +403,8 @@
     }, 
     {
         "headline": "Robert Southey bronze plaque in Bath", 
-        "startDate": "01/01/1774 12:00:00 AM", 
-        "endDate": "01/01/1843 12:00:00 AM", 
+        "startDate": "1774 ", 
+        "endDate": "1843 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7176/6844636960_42be03b908_z.jpg", 
             "caption": "108 Walcot Street"
@@ -411,8 +413,8 @@
     }, 
     {
         "headline": "Walter Scott bronze plaque in Bath", 
-        "startDate": "01/01/1775 12:00:00 AM", 
-        "endDate": "12/31/1775 12:00:00 AM", 
+        "startDate": "1775 ", 
+        "endDate": "1775 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065642820_eb85054c52_z.jpg", 
             "caption": "6 South Parade"
@@ -421,8 +423,8 @@
     }, 
     {
         "headline": "Walter Savage Landor black plaque in Bath", 
-        "startDate": "01/01/1775 12:00:00 AM", 
-        "endDate": "01/01/1864 12:00:00 AM", 
+        "startDate": "1775 ", 
+        "endDate": "1864 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7041/6970094243_f4bfec52d7_z.jpg", 
             "caption": "35 St. James Square"
@@ -431,8 +433,8 @@
     }, 
     {
         "headline": "Benjamin Barker bronze plaque in Bath", 
-        "startDate": "01/01/1776 12:00:00 AM", 
-        "endDate": "01/01/1838 12:00:00 AM", 
+        "startDate": "1776 ", 
+        "endDate": "1838 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4083/5065471730_8f8cc80492_z.jpg", 
             "caption": "16 Bathwick Street"
@@ -441,8 +443,8 @@
     }, 
     {
         "headline": "Fanny Burney bronze plaque in Bath", 
-        "startDate": "01/01/1780 12:00:00 AM", 
-        "endDate": "01/01/1752 12:00:00 AM", 
+        "startDate": "1780 ", 
+        "endDate": "1752 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7068/6970095181_1401b583af_z.jpg", 
             "caption": "14 South Parade"
@@ -451,8 +453,8 @@
     }, 
     {
         "headline": "William Herschel bronze plaque in Bath", 
-        "startDate": "01/01/1781 12:00:00 AM", 
-        "endDate": "01/31/1781 12:00:00 AM", 
+        "startDate": "1781 ", 
+        "endDate": "01/31/1781 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8307/7886910822_7d9f498275_z.jpg", 
             "caption": "19 New King Street"
@@ -461,8 +463,8 @@
     }, 
     {
         "headline": "Thomas Lawrence bronze plaque in Bath", 
-        "startDate": "01/01/1783 12:00:00 AM", 
-        "endDate": "01/01/1788 12:00:00 AM", 
+        "startDate": "1783 ", 
+        "endDate": "1788 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7070/6844647486_feff59640a_z.jpg", 
             "caption": "2 Alfred Street"
@@ -471,8 +473,8 @@
     }, 
     {
         "headline": "John Hunter bronze plaque in Bath", 
-        "startDate": "01/01/1785 12:00:00 AM", 
-        "endDate": "12/31/1785 12:00:00 AM", 
+        "startDate": "1785 ", 
+        "endDate": "1785 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4111/5065025067_951162a5d9_z.jpg", 
             "caption": "12 South Parade"
@@ -481,8 +483,8 @@
     }, 
     {
         "headline": "William Jay bronze plaque in Bath", 
-        "startDate": "01/01/1790 12:00:00 AM", 
-        "endDate": "01/01/1853 12:00:00 AM", 
+        "startDate": "1790 ", 
+        "endDate": "1853 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4088/5064833979_5e68ac51a8_z.jpg", 
             "caption": "Bath Central United Reformed Church, Argyle Street"
@@ -491,8 +493,8 @@
     }, 
     {
         "headline": "Hannah More bronze plaque in Bath", 
-        "startDate": "01/01/1792 12:00:00 AM", 
-        "endDate": "01/01/1802 12:00:00 AM", 
+        "startDate": "1792 ", 
+        "endDate": "1802 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4108/5064888473_b29c532545_z.jpg", 
             "caption": "William Street"
@@ -501,8 +503,8 @@
     }, 
     {
         "headline": "Richard Howe bronze plaque in Bath", 
-        "startDate": "01/01/1794 12:00:00 AM", 
-        "endDate": "01/01/1798 12:00:00 AM", 
+        "startDate": "1794 ", 
+        "endDate": "1798 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4107/5065494934_6ef600ea5f_z.jpg", 
             "caption": "William Street"
@@ -511,7 +513,7 @@
     }, 
     {
         "headline": "William Smith bronze plaque in Bath", 
-        "startDate": "11/12/1799 12:00:00 AM", 
+        "startDate": "11/12/1799 ", 
         "endDate": "", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4113/5065457994_f7eb5f9447_z.jpg", 
@@ -521,8 +523,8 @@
     }, 
     {
         "headline": "Jane Austen bronze plaque in Bath", 
-        "startDate": "01/01/1801 12:00:00 AM", 
-        "endDate": "01/01/1805 12:00:00 AM", 
+        "startDate": "1801 ", 
+        "endDate": "1805 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4145/5065467278_b30e476276_z.jpg", 
             "caption": "4 Sydney Place"
@@ -531,18 +533,19 @@
     }, 
     {
         "headline": "William Pitt bronze plaque in Bath", 
-        "startDate": "01/01/1802 12:00:00 AM", 
-        "endDate": "12/31/1802 12:00:00 AM", 
+        "startDate": "1802 ", 
+        "endDate": "1802 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_z.jpg", 
-            "caption": "15 Johnstone Street"
+            "caption": "15 Johnstone Street",
+            "thumbnail":"http://farm5.static.flickr.com/4109/5065504854_f06aae67d4_s.jpg"
         }, 
         "text": "Here lived William Pitt A.D. 1802"
     }, 
     {
         "headline": "William Wilberforce bronze plaque in Bath", 
-        "startDate": "01/01/1802 12:00:00 AM", 
-        "endDate": "01/01/1805 12:00:00 AM", 
+        "startDate": "1802 ", 
+        "endDate": "1805 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5064850333_e75050060e_z.jpg", 
             "caption": "36 Great Pultney Street"
@@ -551,8 +554,8 @@
     }, 
     {
         "headline": "James Brooke bronze plaque in Bath", 
-        "startDate": "01/01/1803 12:00:00 AM", 
-        "endDate": "01/01/1868 12:00:00 AM", 
+        "startDate": "1803 ", 
+        "endDate": "1868 ", 
         "asset": {
             "media": "http://farm6.staticflickr.com/5466/9832969033_0af302e112_z.jpg", 
             "caption": "1 Widcombe Crescent"
@@ -561,8 +564,8 @@
     }, 
     {
         "headline": "Edward Bulwer-Lytton bronze plaque in Bath", 
-        "startDate": "01/01/1803 12:00:00 AM", 
-        "endDate": "01/01/1873 12:00:00 AM", 
+        "startDate": "1803 ", 
+        "endDate": "1873 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4084/5065450628_1abf4b4089_z.jpg", 
             "caption": "Connaught Mansions, Pultney Street"
@@ -571,8 +574,8 @@
     }, 
     {
         "headline": "Isambard Kingdom Brunel blue plaque in Bath", 
-        "startDate": "01/01/1806 12:00:00 AM", 
-        "endDate": "01/01/1859 12:00:00 AM", 
+        "startDate": "1806 ", 
+        "endDate": "1859 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4113/5065679712_cab50fe298_z.jpg", 
             "caption": "The Royal Hotel, Manvers Street"
@@ -581,8 +584,8 @@
     }, 
     {
         "headline": "Arthur Philip bronze plaque in Bath", 
-        "startDate": "01/01/1806 12:00:00 AM", 
-        "endDate": "01/01/1814 12:00:00 AM", 
+        "startDate": "1806 ", 
+        "endDate": "1814 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7186/6844715216_455eb95dc4_z.jpg", 
             "caption": "19 Bennett Street"
@@ -591,8 +594,8 @@
     }, 
     {
         "headline": "John Rennie blue plaque in Bath", 
-        "startDate": "01/01/1810 12:00:00 AM", 
-        "endDate": "01/01/1813 12:00:00 AM", 
+        "startDate": "1810 ", 
+        "endDate": "1813 ", 
         "asset": {
             "media": "", 
             "caption": "Claverton Pumping Station, Ferry Lane, Claverton"
@@ -601,8 +604,8 @@
     }, 
     {
         "headline": "Isaac Pitman bronze plaque in Bath", 
-        "startDate": "01/01/1813 12:00:00 AM", 
-        "endDate": "01/01/1897 12:00:00 AM", 
+        "startDate": "1813 ", 
+        "endDate": "1897 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4150/5064991425_646fb6bef8_z.jpg", 
             "caption": "17 Royal Crescent"
@@ -611,8 +614,8 @@
     }, 
     {
         "headline": "David Livingstone bronze plaque in Bath", 
-        "startDate": "01/01/1813 12:00:00 AM", 
-        "endDate": "01/01/1873 12:00:00 AM", 
+        "startDate": "1813 ", 
+        "endDate": "1873 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4149/5065548990_a8434247cf_z.jpg", 
             "caption": "13 The Circus"
@@ -621,8 +624,8 @@
     }, 
     {
         "headline": "William IV bronze plaque in Bath", 
-        "startDate": "01/01/1817 12:00:00 AM", 
-        "endDate": "12/31/1817 12:00:00 AM", 
+        "startDate": "1817 ", 
+        "endDate": "1817 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4152/5064868475_e64817f288_z.jpg", 
             "caption": "103 Sydney Place"
@@ -631,8 +634,8 @@
     }, 
     {
         "headline": "Isambard Kingdom Brunel and Pulteney Bridge blue plaque in Bath", 
-        "startDate": "01/01/1821 12:00:00 AM", 
-        "endDate": "01/01/1826 12:00:00 AM", 
+        "startDate": "1821 ", 
+        "endDate": "1826 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7211/7190635016_2bd2e8225b_z.jpg", 
             "caption": "Walcot Street"
@@ -641,8 +644,8 @@
     }, 
     {
         "headline": "William Beckford bronze plaque in Bath", 
-        "startDate": "01/01/1822 12:00:00 AM", 
-        "endDate": "01/01/1844 12:00:00 AM", 
+        "startDate": "1822 ", 
+        "endDate": "1844 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8299/7886866876_513516724f_z.jpg", 
             "caption": "20 Lansdown Crescent"
@@ -651,8 +654,8 @@
     }, 
     {
         "headline": "Frederic Harrison bronze plaque in Bath", 
-        "startDate": "01/01/1831 12:00:00 AM", 
-        "endDate": "01/01/1923 12:00:00 AM", 
+        "startDate": "1831 ", 
+        "endDate": "1923 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4145/5065591544_742ec5ddea_z.jpg", 
             "caption": "10 Royal Crescent"
@@ -661,7 +664,7 @@
     }, 
     {
         "headline": "Charles Napier bronze plaque in Bath", 
-        "startDate": "01/01/1836 12:00:00 AM", 
+        "startDate": "1836 ", 
         "endDate": "", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7067/6950153257_f594d2a30a_z.jpg", 
@@ -671,8 +674,8 @@
     }, 
     {
         "headline": "John Arthur Roebuck Rudge and William Friese-Greene black plaque in Bath", 
-        "startDate": "01/01/1837 12:00:00 AM", 
-        "endDate": "01/01/1903 12:00:00 AM", 
+        "startDate": "1837 ", 
+        "endDate": "1903 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4111/5065436818_9a19b0751a_z.jpg", 
             "caption": "New Bond Street Place"
@@ -681,8 +684,8 @@
     }, 
     {
         "headline": "John Arthur Roebuck Rudge bronze plaque in Bath", 
-        "startDate": "01/01/1837 12:00:00 AM", 
-        "endDate": "01/01/1903 12:00:00 AM", 
+        "startDate": "1837 ", 
+        "endDate": "1903 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4109/5065440896_88b1726d60_z.jpg", 
             "caption": "New Bond Street Place"
@@ -691,18 +694,18 @@
     }, 
     {
         "headline": "Charles Dickens black plaque in Bath", 
-        "startDate": "01/01/1840 12:00:00 AM", 
-        "endDate": "01/31/1840 12:00:00 AM", 
+        "startDate": "1840 ", 
+        "endDate": "01/31/1840 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7061/6823971424_9d52da5c46_z.jpg", 
-            "caption": "35 St James\u00e2\u0080\u0099s Square"
+            "caption": "35 St James's Square"
         }, 
         "text": "Charles Dickens dwelt here 1840"
     }, 
     {
         "headline": "Isambard Kingdom Brunel red plaque in Bath", 
-        "startDate": "01/01/1841 12:00:00 AM", 
-        "endDate": "01/31/1841 12:00:00 AM", 
+        "startDate": "1841 ", 
+        "endDate": "01/31/1841 ", 
         "asset": {
             "media": "http://farm3.staticflickr.com/2930/14065977939_c3ab7edfe9_z.jpg", 
             "caption": "Bath Spa Station, Dorchester Street"
@@ -711,8 +714,8 @@
     }, 
     {
         "headline": "Henry Stafford Smith bronze plaque in Bath", 
-        "startDate": "01/01/1843 12:00:00 AM", 
-        "endDate": "01/01/1903 12:00:00 AM", 
+        "startDate": "1843", 
+        "endDate": "1903", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7067/6990808053_8433c1476c_z.jpg", 
             "caption": "13 George Street"
@@ -720,9 +723,9 @@
         "text": "These premises were formerly occupied by the philatelist Henry Stafford Smith (B. 1843. D. 1903) who with his brother Alfred William Smith (B. 1837. D.1880) published from 1863 onwards, \"The Stamp Collector's Magazine\". This was the pioneer philatelic journal and Bath is therefore the cradle city of philatelic literature."
     }, 
     {
-        "headline": "Louis-Napol\u00c3\u00a9on Bonaparte bronze plaque in Bath", 
-        "startDate": "01/01/1846 12:00:00 AM", 
-        "endDate": "12/31/1846 12:00:00 AM", 
+        "headline": "Louis-Napolon Bonaparte bronze plaque in Bath", 
+        "startDate": "1846 ", 
+        "endDate": "1846 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4125/5065484960_850f305550_z.jpg", 
             "caption": "Sydney Place"
@@ -731,8 +734,8 @@
     }, 
     {
         "headline": "Frederic Leighton bronze plaque in Bath", 
-        "startDate": "01/01/1855 12:00:00 AM", 
-        "endDate": "01/01/1856 12:00:00 AM", 
+        "startDate": "1855 ", 
+        "endDate": "1856 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4127/5064941127_7cbc72a1b0_z.jpg", 
             "caption": "9 The Circus"
@@ -741,8 +744,8 @@
     }, 
     {
         "headline": "Charlotte bronze plaque in Bath", 
-        "startDate": "01/01/1871 12:00:00 AM", 
-        "endDate": "12/31/1817 12:00:00 AM", 
+        "startDate": "1871 ", 
+        "endDate": "1817 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4085/5064863391_2238824a4e_z.jpg", 
             "caption": "93 Sydney Place"
@@ -751,8 +754,8 @@
     }, 
     {
         "headline": "William Herschel and Caroline Herschel green plaque in Bath", 
-        "startDate": "01/01/1873 12:00:00 AM", 
-        "endDate": "01/01/1822 12:00:00 AM", 
+        "startDate": "1873 ", 
+        "endDate": "1822 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7179/6844697316_e3ca94631d_z.jpg", 
             "caption": "19 New King Street"
@@ -761,8 +764,8 @@
     }, 
     {
         "headline": "Connop Thirlwall bronze plaque in Bath", 
-        "startDate": "01/01/1874 12:00:00 AM", 
-        "endDate": "01/01/1875 12:00:00 AM", 
+        "startDate": "1874 ", 
+        "endDate": "1875 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5064878109_1a7566c30c_z.jpg", 
             "caption": "Sydney Place"
@@ -771,8 +774,8 @@
     }, 
     {
         "headline": "Frederick Sleigh Roberts bronze plaque in Bath", 
-        "startDate": "01/01/1900 12:00:00 AM", 
-        "endDate": "01/01/1914 12:00:00 AM", 
+        "startDate": "1900 ", 
+        "endDate": "1914 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7062/6990812193_1c12c3e04b_z.jpg", 
             "caption": "9 Queen's Parade"
@@ -781,8 +784,8 @@
     }, 
     {
         "headline": "George Saintsbury bronze plaque in Bath", 
-        "startDate": "01/01/1916 12:00:00 AM", 
-        "endDate": "01/01/1933 12:00:00 AM", 
+        "startDate": "1916", 
+        "endDate": "1933", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065576576_c0a325f628_z.jpg", 
             "caption": "1a Royal Crescent"
@@ -791,8 +794,8 @@
     }, 
     {
         "headline": "Fred E. Weatherly bronze plaque in Bath", 
-        "startDate": "01/01/1919 12:00:00 AM", 
-        "endDate": "01/01/1928 12:00:00 AM", 
+        "startDate": "1919", 
+        "endDate": "1928", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7082/7035653733_8d96a26148_z.jpg", 
             "caption": "10 Edward Street"
@@ -800,9 +803,9 @@
         "text": "Here lived Fred E. Weatherly, K.C. song writer 1919 to 1928 B. 1848 D. 1929."
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 30840 in Bath", 
-        "startDate": "01/01/1942 12:00:00 AM", 
-        "endDate": "01/01/1951 12:00:00 AM", 
+        "headline": "Stone plaque in Bath", 
+        "startDate": "1942", 
+        "endDate": "1951", 
         "asset": {
             "media": "http://farm3.staticflickr.com/2913/14064822748_5db0ba1a0c_z.jpg", 
             "caption": "Lansdown Road"
@@ -810,17 +813,17 @@
         "text": "Hope House destroyed by enemy action 25 April 1942 re-opened 23 May 1951 by HRH the Duchess of Gloucester"
     }, 
     {
-        "headline": "Blue plaque \u00e2\u0084\u0096 12835 in Bath", 
-        "startDate": "01/01/1964 12:00:00 AM", 
-        "endDate": "01/01/2010 12:00:00 AM", 
+        "headline": "Blue plaque in Bath", 
+        "startDate": "1964 ", 
+        "endDate": "2010 ", 
         "asset": {
             "media": "http://farm3.staticflickr.com/2881/9209058013_28e43284c1_z.jpg", 
-            "caption": "?"
+            "caption": ""
         }, 
         "text": "Bloomsbury.  Richard Barson, entrepreneur, visionary, father, friend.  1964 - 2010"
     }, 
     {
-        "headline": "Stone plaque \u00e2\u0084\u0096 31098 in Bath", 
+        "headline": "Stone plaque in Bath", 
         "startDate": "", 
         "endDate": "", 
         "asset": {
@@ -832,7 +835,7 @@
     {
         "headline": "Jacob von Hogflume blue plaque in Bath", 
         "startDate": "", 
-        "endDate": "", 
+        "endDate": "1909", 
         "asset": {
             "media": "", 
             "caption": "The Octagon, Milsom St"
@@ -841,8 +844,8 @@
     }, 
     {
         "headline": "Edgar and Dunstan brass plaque in Bath", 
-        "startDate": "", 
-        "endDate": "", 
+        "startDate": "973", 
+        "endDate": "973", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8422/7803179600_15a03ca521_z.jpg", 
             "caption": "Bath Abbey"
