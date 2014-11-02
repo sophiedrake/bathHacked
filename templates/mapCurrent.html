@@ -34,7 +34,19 @@
 
     <div>
     	<h1>Maps of Bath: Showing a current map </h1>
-    	<p><a href="/maps">Show none       </a><a href="/maps1572">Show 1572       </a><a href="/maps1852">Show 1852       </a><a href="/maps1891">Show 1891</a></p>
+
+		<div class="dropdown">
+		  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+		    Choose Map
+		    <span class="caret"></span>
+		  </button>
+		  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+		    <li role="presentation"><a role="menuitem" tabindex="-1" href="/maps">None</a></li>
+		    <li role="presentation"><a role="menuitem" tabindex="-1" href="/maps1572">1572</a></li>
+		    <li role="presentation"><a role="menuitem" tabindex="-1" href="/maps1852">1852</a></li>
+		    <li role="presentation"><a role="menuitem" tabindex="-1" href="/maps1891">1891</a></li>
+		  </ul>
+		</div>
     </div>
     <div class="map-contain"id="map-canvas"></div>
 {% endblock %}
