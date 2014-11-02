@@ -63,17 +63,19 @@ def getMapInfo(name):
 @app.route('/maps1572')
 def show_maps():
     url = '../static/1572-jones.jpg'
-    result = getMapInfo('static/1572-geo.tiff')
-    sw = result[0]
-    ne = result[1]
+  #  result = getMapInfo('static/1572-geo.tiff')
+   # print result
+    sw = (51.37664244922259, -2.3664062869774063)
+    ne = (51.3854469338053, -2.3507642429564233)
     return render_template('maps.html', sw=sw, ne=ne, url=url, year='1572')
 
 @app.route('/maps1891')
 def show_maps1():
     url = '../static/bath-1891.jpg'
-    result = getMapInfo('static/bath-1891-geo.tiff')
-    sw = result[0]
-    ne = result[1]
+    #result = getMapInfo('static/bath-1891-geo.tiff')
+    #print result
+    sw = (51.3707976034083, -2.389822300856615)
+    ne = (51.39919189594104, -2.3322347272066253)
     return render_template('maps.html', sw=sw, ne=ne, url=url, year='1891')
 
 @app.route('/league')
