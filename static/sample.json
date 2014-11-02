@@ -1,12 +1,8 @@
-
-    {
+{
         "timeline": {
             "headline": "Bath Wall Plaques", 
             "text": "Bath has a long and fascinating history. One way to visualise this is through the plaques commemorating people and places around the town. Explore this timeline to travel from the medieval through the bustling social resort to the modern day ", 
             "type": "default", 
-        
-            "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
-            "caption" : "Data on plaques sourced from <a href=\" http://openplaques.org/\">Open Plaques</a>",
             "startDate": "900,1,1",
              "date": [
 
@@ -17,7 +13,8 @@
         "endDate": "1494", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_z.jpg", 
-            "caption": "Bath Abbey"
+            "caption": "Bath Abbey",
+			"thumbnail": "http://farm8.staticflickr.com/7253/7803180040_98135b00d9_s.jpg"
         }, 
         "text": "The tower of the <a href=\"http://www.bathabbey.org/history/norman-cathedral\"> Norman cathedral </a> built by Bishop John de Villulain in the reign of William II (c1091) stood here. The apse is believed to have extended 36 metres east from this point."
     }, 
@@ -27,7 +24,8 @@
         "endDate": "1755", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_z.jpg", 
-            "caption": "Trim Street"
+            "caption": "Trim Street",
+			"thumbnail": "http://farm9.staticflickr.com/8295/7803179122_4fa87e0ab2_s.jpg" 
         }, 
         "text": "Part of the mediaeval wall of the city of Bath"
     }, 
@@ -37,7 +35,8 @@
         "endDate": "1483", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_z.jpg", 
-            "caption": "4 North Parade Passage"
+            "caption": "4 North Parade Passage",
+			"thumbnail": "http://farm5.static.flickr.com/4131/5065385016_23db073e46_s.jpg"
         }, 
         "text": "The oldest house in Bath 1482 Sally Lunn lived here 1680"
     }, 
@@ -47,7 +46,8 @@
         "endDate": "1748", 
         "asset": {
             "media": "http://farm1.staticflickr.com/130/383555325_c87c589ebf_z.jpg", 
-            "caption": "Marshall Wade House, 14 Abbey Churchyard"
+            "caption": "Marshall Wade House, 14 Abbey Churchyard",
+			"thumbnail":"http://farm1.staticflickr.com/130/383555325_c87c589ebf_s.jpg" 
         }, 
         "text": "Here lived Marshal Wade M.P. B.1673 D.1748"
     }, 
@@ -57,7 +57,8 @@
         "endDate": "1766", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_z.jpg", 
-            "caption": "4 Pierrepont Street"
+            "caption": "4 Pierrepont Street",
+			"thumbnail":"http://farm5.static.flickr.com/4145/5065035031_e0e53390cb_s.jpg"
         }, 
         "text": "Here lived James Quin B.1693 D.1766"
     }, 
@@ -67,8 +68,9 @@
         "endDate": "1773", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_z.jpg", 
-            "caption": "4 Pierrepont Street"
-        }, 
+            "caption": "4 Pierrepont Street",
+			"thumbnail": "http://farm5.static.flickr.com/4106/5065651778_f7bd8bbb71_s.jpg" 
+		}, 
         "text": "Here lived the Earl of Chesterfield B.1694 D.1773"
     }, 
     {
@@ -77,7 +79,8 @@
         "endDate": "1764 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_z.jpg", 
-            "caption": "16-18 Queen Square"
+            "caption": "16-18 Queen Square",
+			"thumbnail":"http://farm8.staticflickr.com/7057/6823971024_c0933ecd5d_s.jpg" 
         }, 
         "text": "On this site stood the residence of William Oliver, M.D. One of the founders of the Royal Mineral Water Hospital B. 1695 D. 1764"
     }, 
@@ -87,7 +90,8 @@
         "endDate": "1772 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_z.jpg", 
-            "caption": "9 New King Street"
+            "caption": "9 New King Street",
+			"thumbnail": "http://farm8.staticflickr.com/7195/6844690764_48cbaac2e2_s.jpg"
         }, 
         "text": "Near this site between 1770 and 1772 lived Thomas Sheridan Actor & Orthoepist 1719-1788 Richard Brinsley Sheridan Dramatist 1751-1816"
     }, 
@@ -97,7 +101,8 @@
         "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_z.jpg", 
-            "caption": "24 Queen Square"
+            "caption": "24 Queen Square",
+			"thumbnail": "http://farm8.staticflickr.com/7047/6970092735_acdb33b164_s.jpg" 
         }, 
         "text": "Here lived John Wood B. 1704 D. 1754"
     }, 
@@ -107,7 +112,8 @@
         "endDate": "1754 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_z.jpg", 
-            "caption": "Widcombe Lodge, Church Street"
+            "caption": "Widcombe Lodge, Church Street",
+			"thumbnail": "http://farm8.staticflickr.com/7414/9832723895_4b1900ba8a_s.jpg", 
         }, 
         "text": "Here lived Henry Fielding B.1707 D.1754 and Sarah Fielding B.1710 D.1768"
     }, 
@@ -117,7 +123,8 @@
         "endDate": "1778 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_z.jpg", 
-            "caption": "7 The Circus"
+            "caption": "7 The Circus",
+			"thumbnail": "http://farm5.static.flickr.com/4128/5065557784_142688bd41_s.jpg"
         }, 
         "text": "Here lived Earl of Chatham B.1708-D.1778"
     }, 
@@ -127,7 +134,8 @@
         "endDate": "1761 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8293/7803180622_6e0e0a8e3c_z.jpg", 
-            "caption": "Grand Parade"
+            "caption": "Grand Parade",
+			"thumbnail": "http://farm9.staticflickr.com/8293/7803180622_6e0e0a8e3c_s.jpg"
         }, 
         "text": "This tablet marks the site of Harrison's Assembly Rooms where Richard (Beau) Nash presided as Master of ceremonies 1708-1761Here also stood 1823-1933 The Royal Literary and Scientific Institution inaugurated by the poets  Moore, Crabbe, and Bowles: now transferred to Queen Square"
     }, 
@@ -137,7 +145,8 @@
         "endDate": "1795", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7041/6990799403_ede3d0e782_z.jpg", 
-            "caption": "18 Brock Street"
+            "caption": "18 Brock Street",
+			"thumbnail": "http://farm8.staticflickr.com/7041/6990799403_ede3d0e782_s.jpg"
         }, 
         "text": "Here dwelt John Christopher Smith (1712-1795) Handel's friend and secretary"
     }, 
@@ -147,7 +156,8 @@
         "endDate": "1774 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4089/5065545252_d8c8ea3a0c_z.jpg", 
-            "caption": "14 The Circus"
+            "caption": "14 The Circus",
+			"thumbnail": "http://farm5.static.flickr.com/4089/5065545252_d8c8ea3a0c_s.jpg" 
         }, 
         "text": "Here dwelt  Lord Clive  B.1725 D.1774"
     }, 
@@ -157,7 +167,8 @@
         "endDate": "1788 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4107/5064929311_6ffebb024c_z.jpg", 
-            "caption": "17 The Circus"
+            "caption": "17 The Circus",
+			"thumbnail": "http://farm5.static.flickr.com/4107/5064929311_6ffebb024c_s.jpg"
         }, 
         "text": "Here lived T. Gainsborough. R.A.B.1727 D.1788"
     }, 
@@ -167,7 +178,8 @@
         "endDate": "1759 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7051/6990828665_87baa7262b_z.jpg", 
-            "caption": "5 Trim Street"
+            "caption": "5 Trim Street",
+			"thumbnail": "http://farm8.staticflickr.com/7051/6990828665_87baa7262b_s.jpg" 
         }, 
         "text": "Here dwelt General Wolfe B 1727 D 1759"
     }, 
@@ -177,7 +189,8 @@
         "endDate": "1781 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7178/6823970000_0482fc4ee2_z.jpg", 
-            "caption": "41 Gay Street"
+            "caption": "41 Gay Street",
+			"thumbnail": "http://farm8.staticflickr.com/7178/6823970000_0482fc4ee2_s.jpg"  
         }, 
         "text": "Here lived John Wood Junr B. 1727 D. 1781"
     }, 
@@ -187,7 +200,8 @@
         "endDate": "1791 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4125/5065622070_9f9fb5be37_z.jpg", 
-            "caption": "11 North Parade"
+            "caption": "11 North Parade",
+			"thumbnail": "http://farm5.static.flickr.com/4125/5065622070_9f9fb5be37_s.jpg"
         }, 
         "text": "Here dwelt Edmund Burke B.1729 D.1797"
     }, 
@@ -197,7 +211,8 @@
         "endDate": "1849 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7328/14168442655_e8624c1636_z.jpg", 
-            "caption": "Trim Street"
+            "caption": "Trim Street",
+			"thumbnail": "http://farm8.staticflickr.com/7328/14168442655_e8624c1636_s.jpg" 
         }, 
         "text": "This piece of ground was in the year 1736 set apart for the burial of patients dying in the Bath General Hospital, and after receiving 238 bodies was closed by the governors of that charity in the year 1849, from regard to the health of the living."
     }, 
@@ -207,7 +222,8 @@
         "endDate": "1738 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8033/7886869266_4d53aef696_z.jpg", 
-            "caption": "Queens Square"
+            "caption": "Queens Square",
+			"thumbnail": "http://farm9.staticflickr.com/8033/7886869266_4d53aef696_s.jpg" 
         }, 
         "text": "In memory of honours conferred and in gratitude for benefits bestowed on this city by HRH Frederick Prince of Wales and His Royal Consort, in the year 1738 this obelisk was erected by Richard Nash."
     }, 
@@ -217,7 +233,8 @@
         "endDate": "01/31/1740 ", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_z.jpg", 
-            "caption": "Ralph Allen's Cottages, Prior Park Road"
+            "caption": "Ralph Allen's Cottages, Prior Park Road",
+			"thumbnail": "http://farm8.staticflickr.com/7105/7235892714_c6d704f6a1_s.jpg"
         }, 
         "text": "Ralph Allen's Cottages Built by Ralph Allen to house his stone masons who worked nearby Erected circa 1740 Restored 1983"
     }, 
@@ -227,7 +244,8 @@
         "endDate": "1821 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4103/5065524312_bac5eaf142_z.jpg", 
-            "caption": "8 Gay Street"
+            "caption": "8 Gay Street",
+			"thumbnail": "http://farm5.static.flickr.com/4103/5065524312_bac5eaf142_s.jpg" 
         }, 
         "text": "Here lived Mrs Piozzi B.1741 D.1821"
     }, 
@@ -237,7 +255,8 @@
         "endDate": "1818 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_z.jpg", 
-            "caption": "1 North Parade Buildings"
+            "caption": "1 North Parade Buildings",
+			"thumbnail": "http://farm5.static.flickr.com/4105/5064767491_876ca36cb1_s.jpg" 
         }, 
         "text": "Here lived John Palmer B.1741 D.1818"
     }, 
@@ -247,7 +266,8 @@
         "endDate": "1761 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8257/8635781974_576275220c_z.jpg", 
-            "caption": "Saw Street"
+            "caption": "Saw Street",
+			"thumbnail": "http://farm9.staticflickr.com/8257/8635781974_576275220c_s.jpg"  
         }, 
         "text": "Here lived Beau Nash MC 1743-1761"
     }, 
@@ -257,7 +277,8 @@
         "endDate": "1805 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4124/5065061157_98deee8af5_z.jpg", 
-            "caption": "Old Orchard Street"
+            "caption": "Old Orchard Street",
+			"thumbnail": "http://farm5.static.flickr.com/4124/5065061157_98deee8af5_s.jpg" 
         }, 
         "text": "This building, erected in 1750, was formerly the  Theatre Royal managed by the celebrated John Palmer, M.P., originator of the mail coach system and holder of the first Royal Patent ever granted to a provincial theatre, to its stock company, for a period of four years (1778-82) belonged the renowned Sarah Siddons, with her husband and sister. Here also appeared her brothers, John Philip Kemble and Stephen Kemble. Here John Henderson and R.W. Elliston both made their first appearances on the stage and were for a long time leading actors. Samuel Foote, George Frederick Cooke, William Dimond, Benjamin Engledon, George and Mrs. Bartley, and many other famous players also acted in this theatre, which was closed in 1805."
     }, 
@@ -267,7 +288,8 @@
         "endDate": "1754 ", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8310/7886867212_4252aaa2b6_z.jpg", 
-            "caption": "Broad Street"
+            "caption": "Broad Street",
+			"thumbnail": "http://farm9.staticflickr.com/8310/7886867212_4252aaa2b6_s.jpg" 
         }, 
         "text": "This building designed by Thomas Jelly and completed in 1754 was restored in 1978 by the Friends of King Edward's School with the aid of a grant from the Bath Town Scheme."
     }, 
@@ -277,7 +299,8 @@
         "endDate": "1831", 
         "asset": {
             "media": "http://farm8.staticflickr.com/7062/6823969046_228c2c6d42_z.jpg", 
-            "caption": "33 The Paragon"
+            "caption": "33 The Paragon",
+			"thumbnail": "http://farm8.staticflickr.com/7062/6823969046_228c2c6d42_s.jpg" 
         }, 
         "text": "Here dwelt Sarah Siddons B. 1755 D. 1831"
     }, 
@@ -287,7 +310,8 @@
         "endDate": "1822 ", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4110/5064950947_de59fb131a_z.jpg", 
-            "caption": "27 The Circus"
+            "caption": "27 The Circus",
+			"thumbnail": "http://farm5.static.flickr.com/4110/5064950947_de59fb131a_s.jpg" 
         }, 
         "text": "Here lived Dr Caleb Hillier Parry B.1755 D. 1822. and his son Admiral Sir W. E. Parry B.1790 D.1855"
     }, 
@@ -297,7 +321,8 @@
         "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4086/5065656668_a2c2bc5b1d_z.jpg", 
-            "caption": "2 Pierrepont Street"
+            "caption": "2 Pierrepont Street",
+			"thumbnail": "http://farm5.static.flickr.com/4086/5065656668_a2c2bc5b1d_s.jpg"
         }, 
         "text": "Here dwelt Admiral Lord Nelson B.1758 D.1805"
     }, 
@@ -317,7 +342,8 @@
         "endDate": "1766", 
         "asset": {
             "media": "http://farm6.staticflickr.com/5588/15046628587_ec7a925fe7_z.jpg", 
-            "caption": "Chapel Court, St John's Hospital"
+            "caption": "Chapel Court, St John's Hospital",
+			"thumbnail": "http://farm6.staticflickr.com/5588/15046628587_ec7a925fe7_s.jpg" 
         }, 
         "text": "Horace Walpole stayed here 1766"
     }, 
@@ -327,7 +353,8 @@
         "endDate": "1771", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4088/5065662608_861f570f12_z.jpg", 
-            "caption": "Old Orchard Street"
+            "caption": "Old Orchard Street",
+			"thumbnail": "http://farm5.static.flickr.com/4088/5065662608_861f570f12_s.jpg"
         }, 
         "text": "Elizabeth Anne Linley afterwards Mrs. R.B. Sheridan lived here 1767-1771."
     }, 
@@ -337,7 +364,8 @@
         "endDate": "1847", 
         "asset": {
             "media": "http://farm9.staticflickr.com/8180/7886870520_a1bde2f51c_z.jpg", 
-            "caption": "Doric House, Cavendish Road"
+            "caption": "Doric House, Cavendish Road",
+			"thumbnail": "http://farm9.staticflickr.com/8180/7886870520_a1bde2f51c_s.jpg" 
         }, 
         "text": "Here lived Thomas Barker B. 1769 D. 1847"
     }, 
@@ -347,7 +375,8 @@
         "endDate": "1805", 
         "asset": {
             "media": "http://farm5.static.flickr.com/4091/5064975289_65d228067f_z.jpg", 
-            "caption": "5 Royal Crescent"
+            "caption": "5 Royal Crescent",
+			"thumbnail": "http://farm5.static.flickr.com/4091/5064975289_65d228067f_s.jpg"
         }, 
         "text": "Here lived Christopher Anstey 1770-1805"
     }, 
